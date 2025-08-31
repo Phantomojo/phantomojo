@@ -323,7 +323,7 @@ Think of me as the **digital architect** who doesn't just follow the blueprintâ€
     <img src="https://img.shields.io/badge/Twitter-@PhantoMojo-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
   <a href="https://phantomojo.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-CIA%2FNSA%20Theme-00D4FF?style=for-the-badge&logo=shield-alt" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Shiny%20Cards%20Theme-667EEA?style=for-the-badge&logo=sparkles" alt="Portfolio"/>
   </a>
   
   <br/>
