@@ -66,6 +66,7 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 <p align="left">
   <a href="mailto:mirungu015@proton.me"><img src="https://img.shields.io/badge/Email-mirungu015@proton.me-blue?style=flat-square&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/michael-irungu-8a233926a"><img src="https://img.shields.io/badge/LinkedIn-Michael%20Irungu%20Muriithi-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://phantomojo.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Terminal%20Theme-00FF00?style=flat-square&logo=terminal"/></a>
 </p>
 
 ---
