@@ -1,24 +1,24 @@
 <!-- Profile README for Michael Irungu Muriithi (PhantoMojo) -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+Irungu+Muriithi+(PhantoMojo);Software+Developer+%7C+Cybersecurity+Pro+%7C+AI+Tools+Specialist;Remote-Ready+%7C+Creative+Technologist+%7C+Evolving+Architect+of+Meaning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+Irungu+Muriithi+(PhantoMojo);Software+Developer+%7C+Cybersecurity+Pro+%7C+AI+Tools+Specialist;Remote-Ready+%7C+Creative+Technologist+%7C+Evolving+Architect+of+Meaning" alt="Typing SVG"/>
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=PhantoMojo&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Kenya-blue?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Vibe-Coding%20%7C%20Rule%20Breaker-purple?style=flat-square" alt="Vibe"/>
+  <img src="https://komarev.com/ghpvc/?username=PhantoMojo&style=flat-square&color=00FF00" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-ONLINE%20%7C%20ACTIVE%20%7C%20SECURE-00FF00?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-REMOTE%20%7C%20KENYA-00FF00?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Clearance-Level-BLACK%20OPS-FF0000?style=flat-square" alt="Clearance"/>
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Currently%20Hacking-AI%20Trading%20Algorithms-red?style=for-the-badge" alt="Current Focus"/>
-  <img src="https://img.shields.io/badge/Next%20Mission-Quantum%20Security-blue?style=for-the-badge" alt="Next Mission"/>
+  <img src="https://img.shields.io/badge/Mission_Status-QUANTUM%20SECURITY%20PROTOCOLS-FF0000?style=for-the-badge" alt="Mission Status"/>
+  <img src="https://img.shields.io/badge/Next_Objective-AI%20Trading%20Algorithms-00FF00?style=for-the-badge" alt="Next Objective"/>
   
   <br/>
   
-  <img src="https://img.shields.io/badge/System_Status-Online%20%7C%20Hacking%20%7C%20Learning-green?style=for-the-badge" alt="System Status"/>
-  <img src="https://img.shields.io/badge/Security_Level-Maximum%20Paranoia-red?style=for-the-badge" alt="Security Level"/>
+  <img src="https://img.shields.io/badge/System_Status-ONLINE%20%7C%20HACKING%20%7C%20LEARNING-00FF00?style=for-the-badge" alt="System Status"/>
+  <img src="https://img.shields.io/badge/Security_Level-MAXIMUM%20PARANOIA-FF0000?style=for-the-badge" alt="Security Level"/>
 </div>
 
 ---
@@ -93,108 +93,105 @@ Think of me as the **digital architect** who doesn't just follow the blueprint�
 
 ### 🏆 Featured Creations
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📈 HedgeFund-Lite</h3>
-        <p align="center">
-          <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=hedgefund-lite&theme=radical" width="100%" alt="HedgeFund-Lite"/>
-          </a>
-          <p align="center">
-            <strong>Production-hardened algorithmic trading system</strong> with AI integration. 
-            Where traditional trading meets machine learning—and wins.
-          </p>
-          <p align="center">
-            <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-            </a>
-            <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
-              <img src="https://img.shields.io/badge/AI_Trading-000000?style=for-the-badge" alt="AI Trading"/>
-            </a>
-            <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
-              <img src="https://img.shields.io/badge/Algorithmic_Trading-00D4AA?style=for-the-badge" alt="Algo Trading"/>
-            </a>
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧠 HRM (Hierarchical Reasoning Model)</h3>
-        <p align="center">
-          <a href="https://github.com/Phantomojo/HRM" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=HRM&theme=radical" width="100%" alt="HRM"/>
-          </a>
-          <p align="center">
-            <strong>Official release of the Hierarchical Reasoning Model.</strong> 
-            Teaching AI to think like a human—but better.
-          </p>
-          <p align="center">
-            <a href="https://github.com/Phantomojo/HRM" target="_blank">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-            </a>
-            <a href="https://github.com/Phantomojo/HRM" target="_blank">
-              <img src="https://img.shields.io/badge/AI_Reasoning-FF6B6B?style=for-the-badge" alt="AI Reasoning"/>
-            </a>
-            <a href="https://github.com/Phantomojo/HRM" target="_blank">
-              <img src="https://img.shields.io/badge/Machine_Learning-FFD93D?style=for-the-badge" alt="ML"/>
-            </a>
-          </p>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">👻 GhostWire Secure Mesh</h3>
-        <p align="center">
-          <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=GhostWire-secure-mesh-communication&theme=radical" width="100%" alt="GhostWire"/>
-          </a>
-          <p align="center">
-            <strong>Secure mesh communication system</strong> for anonymous, decentralized threat intelligence sharing. 
-            Because sometimes you need to be invisible.
-          </p>
-          <p align="center">
-            <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
-              <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-            </a>
-            <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
-              <img src="https://img.shields.io/badge/Secure_Mesh-4ECDC4?style=for-the-badge" alt="Secure Mesh"/>
-            </a>
-            <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
-              <img src="https://img.shields.io/badge/Threat_Intelligence-FF6B6B?style=for-the-badge" alt="Threat Intel"/>
-            </a>
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 JARVIS</h3>
-        <p align="center">
-          <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=JARVIS&theme=radical" width="100%" alt="JARVIS"/>
-          </a>
-          <p align="center">
-            <strong>AI-powered personal assistant system.</strong> 
-            Your digital butler that actually gets things done.
-          </p>
-          <p align="center">
-            <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-            </a>
-            <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
-              <img src="https://img.shields.io/badge/AI_Assistant-9B59B6?style=for-the-badge" alt="AI Assistant"/>
-            </a>
-            <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
-              <img src="https://img.shields.io/badge/Voice_Control-3498DB?style=for-the-badge" alt="Voice Control"/>
-            </a>
-          </p>
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-</div>
+---
+
+#### 📈 **HEDGEFUND-LITE** | *Production-Grade Trading System*
+
+```bash
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  PROJECT: HedgeFund-Lite                                                    ║
+║  STATUS: [ONLINE] Production-Hardened                                       ║
+║  CLEARANCE: BLACK OPS - FINANCIAL INTELLIGENCE                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🎯 MISSION: Revolutionize algorithmic trading with AI-powered precision    ║
+║  🚀 CAPABILITIES: Real-time market analysis, predictive modeling,           ║
+║                   automated execution, risk management                      ║
+║  🔒 SECURITY: Military-grade encryption, zero-trust architecture           ║
+║  📊 PERFORMANCE: 99.9% uptime, sub-millisecond latency                     ║
+║                                                                              ║
+║  [TECH STACK] Python | FastAPI | TensorFlow | PostgreSQL | Redis           ║
+║  [DEPLOYMENT] Kubernetes | Docker | AWS | CI/CD Pipeline                   ║
+║                                                                              ║
+║  🔗 ACCESS: https://github.com/Phantomojo/hedgefund-lite                   ║
+║  📈 METRICS: Production-ready | AI Integration | Real-time Analytics       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+#### 🧠 **HRM** | *Hierarchical Reasoning Model*
+
+```bash
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  PROJECT: HRM (Hierarchical Reasoning Model)                               ║
+║  STATUS: [ACTIVE] Official Release                                          ║
+║  CLEARANCE: TOP SECRET - ARTIFICIAL INTELLIGENCE                           ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🎯 MISSION: Teach AI to think like humans—but better                      ║
+║  🚀 CAPABILITIES: Multi-layered reasoning, decision trees,                 ║
+║                   cognitive modeling, pattern recognition                   ║
+║  🔒 SECURITY: Ethical AI framework, bias detection, transparency           ║
+║  📊 PERFORMANCE: Advanced reasoning, contextual understanding              ║
+║                                                                              ║
+║  [TECH STACK] Python | PyTorch | Scikit-learn | NumPy | Pandas             ║
+║  [DEPLOYMENT] Research Platform | API Integration | Model Serving          ║
+║                                                                              ║
+║  🔗 ACCESS: https://github.com/Phantomojo/HRM                             ║
+║  📈 METRICS: AI Reasoning | Machine Learning | Decision Making             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+#### 👻 **GHOSTWIRE** | *Secure Mesh Communication*
+
+```bash
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  PROJECT: GhostWire Secure Mesh Communication                              ║
+║  STATUS: [STEALTH] Anonymous Operations                                     ║
+║  CLEARANCE: GHOST PROTOCOL - THREAT INTELLIGENCE                           ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🎯 MISSION: Enable invisible, decentralized threat intelligence sharing   ║
+║  🚀 CAPABILITIES: P2P networking, end-to-end encryption,                   ║
+║                   anonymous routing, threat pattern analysis                ║
+║  🔒 SECURITY: Zero-knowledge proofs, onion routing, quantum resistance     ║
+║  📊 PERFORMANCE: Untraceable communication, real-time threat detection     ║
+║                                                                              ║
+║  [TECH STACK] TypeScript | Node.js | WebRTC | WebAssembly | Crypto        ║
+║  [DEPLOYMENT] Browser-based | P2P Network | Decentralized Architecture     ║
+║                                                                              ║
+║  🔗 ACCESS: https://github.com/Phantomojo/GhostWire-secure-mesh-communication ║
+║  📈 METRICS: Secure Mesh | Threat Intelligence | Anonymous Comms           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+#### 🤖 **JARVIS** | *AI Personal Assistant*
+
+```bash
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  PROJECT: JARVIS (Just A Rather Very Intelligent System)                   ║
+║  STATUS: [ACTIVE] Personal AI Operations                                    ║
+║  CLEARANCE: PERSONAL - ARTIFICIAL INTELLIGENCE                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🎯 MISSION: Your digital butler that actually gets things done            ║
+║  🚀 CAPABILITIES: Voice commands, task automation, intelligent scheduling, ║
+║                   natural language processing, smart home integration       ║
+║  🔒 SECURITY: Local processing, encrypted communication, privacy-first     ║
+║  📊 PERFORMANCE: 24/7 availability, contextual understanding, learning     ║
+║                                                                              ║
+║  [TECH STACK] Python | Speech Recognition | NLP | FastAPI | SQLite        ║
+║  [DEPLOYMENT] Local Server | Voice Interface | API Integration            ║
+║                                                                              ║
+║  🔗 ACCESS: https://github.com/Phantomojo/JARVIS                          ║
+║  📈 METRICS: AI Assistant | Voice Control | Task Automation               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -251,76 +248,6 @@ Think of me as the **digital architect** who doesn't just follow the blueprint�
   <img src="https://img.shields.io/badge/Primary-AI%20Trading%20Algorithms-red?style=for-the-badge" alt="Primary"/>
   <img src="https://img.shields.io/badge/Secondary-Cybersecurity%20Research-blue?style=for-the-badge" alt="Secondary"/>
   <img src="https://img.shields.io/badge/Experimental-Quantum%20Security-purple?style=for-the-badge" alt="Experimental"/>
-  
-</div>
-
----
-
-### 🎮 What I'm Up To
-
-<div align="center">
-  
-  **Current Vibes**
-  
-  <img src="https://img.shields.io/badge/Listening_to-Lofi%20Beats%20%7C%20Synthwave%20%7C%20Jazz-purple?style=for-the-badge" alt="Music"/>
-  <img src="https://img.shields.io/badge/Reading-Quantum%20Computing%20%7C%20AI%20Papers%20%7C%20Sci-Fi-orange?style=for-the-badge" alt="Reading"/>
-  <img src="https://img.shields.io/badge/Watching-Mr.%20Robot%20%7C%20Silicon%20Valley%20%7C%20Tech%20Talks-red?style=for-the-badge" alt="Watching"/>
-  
-  **Work Mode**
-  
-  <img src="https://img.shields.io/badge/IDE-Cursor%20%7C%20VS%20Code%20%7C%20Vim-blue?style=for-the-badge" alt="IDE"/>
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux%20%7C%20Ubuntu%20%7C%20WSL-green?style=for-the-badge" alt="OS"/>
-  <img src="https://img.shields.io/badge/Setup-Multiple%20Monitors%20%7C%20Mechanical%20Keyboard%20%7C%20Coffee-yellow?style=for-the-badge" alt="Setup"/>
-  
-</div>
-
----
-
-### 🎲 Interactive Zone
-
-<div align="center">
-  
-  **🎯 Challenge Me**
-  
-  <a href="https://github.com/PhantoMojo/PhantoMojo/issues/new?title=Challenge%20Accepted&body=Hey%20PhantoMojo!%20I%20challenge%20you%20to%20build%20something%20awesome.%20Here%27s%20my%20idea...">
-    <img src="https://img.shields.io/badge/Challenge_Me-Build%20Something%20Cool-orange?style=for-the-badge" alt="Challenge Me"/>
-  </a>
-  
-  <a href="https://github.com/PhantoMojo/PhantoMojo/issues/new?title=Security%20Audit%20Request&body=I%20need%20your%20expertise%20for%20a%20security%20audit...">
-    <img src="https://img.shields.io/badge/Security_Audit-Request%20Expertise-red?style=for-the-badge" alt="Security Audit"/>
-  </a>
-  
-  <a href="https://github.com/PhantoMojo/PhantoMojo/issues/new?title=AI%20Collaboration&body=Let%27s%20work%20on%20something%20AI-powered%20together...">
-    <img src="https://img.shields.io/badge/AI_Collab-Build%20the%20Future-purple?style=for-the-badge" alt="AI Collaboration"/>
-  </a>
-  
-  <br/>
-  
-  **🎪 Fun Facts**
-  
-  <details>
-    <summary>🎭 Click to reveal my coding philosophy</summary>
-    
-    > "I don't write code—I compose digital symphonies where bugs are just unexpected jazz solos."
-    
-  </details>
-  
-  <details>
-    <summary>🔮 Click to see my prediction for 2025</summary>
-    
-    > "AI will become so integrated into cybersecurity that hackers will need AI to hack AI."
-    
-  </details>
-  
-  <details>
-    <summary>🎵 Click to see what's on my coding playlist</summary>
-    
-    - **Lofi Beats** - For deep focus sessions
-    - **Synthwave** - For late-night hacking
-    - **Jazz** - For creative problem solving
-    - **Silence** - For debugging (when things get serious)
-    
-  </details>
   
 </div>
 
@@ -386,7 +313,7 @@ Think of me as the **digital architect** who doesn't just follow the blueprint�
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Let's+build+something+meaningful+together!" alt="Let's Connect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Let's+build+something+meaningful+together!" alt="Let's Connect"/>
   
   <br/>
   
