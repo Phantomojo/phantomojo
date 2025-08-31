@@ -1,8 +1,14 @@
 <!-- Profile README for Michael Irungu Muriithi (PhantoMojo) -->
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+Irungu+Muriithi+(PhantoMojo);Software+Developer+%7C+Cybersecurity+Pro+%7C+AI+Tools+Specialist;Remote-Ready+%7C+Creative+Technologist+%7C+Evolving+Architect+of+Meaning" alt="Typing SVG"/>
-</p>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=PhantoMojo&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Kenya-blue?style=flat-square" alt="Location"/>
+</div>
 
 ---
 
@@ -11,7 +17,7 @@
 I'm a multi-skilled, highly adaptable professional thriving at the intersection of **software development**, **cybersecurity**, and **AI-powered tools**. My approach—often called "vibe coding"—blends technical precision with creative intuition, building robust, human-centered solutions.
 
 - 🛡️ **Cybersecurity Professional** (Offensive & Defensive, DFIR, Threat Intelligence)
-- 🧑‍💻 **Software Developer** (Python, FastAPI, CLI, SQL, PowerShell)
+- 🧑‍💻 **Software Developer** (Python, FastAPI, CLI, SQL, PowerShell, TypeScript)
 - 🤖 **AI Tools & IDEs Specialist** (ChatGPT, DeepSeek, Cursor, Windsurf)
 - 🌍 **Remote-Ready**: Proven experience collaborating and delivering in distributed teams
 
@@ -19,29 +25,206 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+  **Languages & Frameworks**
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+  **AI & Machine Learning**
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  
+  **Security & Tools**
+  
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+  
+  **Development Tools**
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+  
+</div>
+
+---
+
 ### 🚀 Core Competencies
 
-- **Software:** Python, FastAPI, SQL, Bash, PowerShell, API Design, Mobile-First UX
-- **AI & Data:** Data Analysis, Algorithmic Thinking, AI Tool Integration
-- **Cybersecurity:** Penetration Testing, DFIR, Threat Intelligence, OSINT
-- **Systems:** Linux (Kali, Ubuntu, Parrot, BlackArch), Windows, WSL
+- **Software Development:** Python, TypeScript, FastAPI, SQL, Bash, PowerShell, API Design, Mobile-First UX
+- **AI & Machine Learning:** Data Analysis, Algorithmic Thinking, AI Tool Integration, Neural Networks, Trading Algorithms
+- **Cybersecurity:** Penetration Testing, DFIR, Threat Intelligence, OSINT, Vulnerability Assessment, Secure Mesh Networks
+- **Systems:** Linux (Kali, Ubuntu, Parrot, BlackArch), Windows, WSL, Docker
 - **Tools:** Git, GitHub, ADB, Wireshark, Nmap, Metasploit, Burp Suite, Aircrack-ng
 
 ---
 
-### 🏆 Pinned Projects
+### 🏆 Featured Projects
 
-#### <img src="https://img.icons8.com/ios-filled/24/000000/ghost.png" width="20"/> GhostWire
-> Decentralized, CLI-based threat intelligence sharing tool for anonymous, secure communication. Modular, spy-themed, and ready for AI-driven threat pattern recognition.
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📈 HedgeFund-Lite</h3>
+        <p align="center">
+          <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=hedgefund-lite&theme=radical" width="100%" alt="HedgeFund-Lite"/>
+          </a>
+          <p align="center">
+            Production-hardened algorithmic trading system with AI integration. 
+            Advanced financial modeling and automated trading strategies.
+          </p>
+          <p align="center">
+            <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+            </a>
+            <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
+              <img src="https://img.shields.io/badge/AI_Trading-000000?style=for-the-badge" alt="AI Trading"/>
+            </a>
+            <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
+              <img src="https://img.shields.io/badge/Algorithmic_Trading-00D4AA?style=for-the-badge" alt="Algo Trading"/>
+            </a>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧠 HRM (Hierarchical Reasoning Model)</h3>
+        <p align="center">
+          <a href="https://github.com/Phantomojo/HRM" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=HRM&theme=radical" width="100%" alt="HRM"/>
+          </a>
+          <p align="center">
+            Official release of the Hierarchical Reasoning Model. 
+            Advanced AI reasoning and decision-making framework.
+          </p>
+          <p align="center">
+            <a href="https://github.com/Phantomojo/HRM" target="_blank">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+            </a>
+            <a href="https://github.com/Phantomojo/HRM" target="_blank">
+              <img src="https://img.shields.io/badge/AI_Reasoning-FF6B6B?style=for-the-badge" alt="AI Reasoning"/>
+            </a>
+            <a href="https://github.com/Phantomojo/HRM" target="_blank">
+              <img src="https://img.shields.io/badge/Machine_Learning-FFD93D?style=for-the-badge" alt="ML"/>
+            </a>
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">👻 GhostWire Secure Mesh</h3>
+        <p align="center">
+          <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=GhostWire-secure-mesh-communication&theme=radical" width="100%" alt="GhostWire"/>
+          </a>
+          <p align="center">
+            Secure mesh communication system for anonymous, decentralized threat intelligence sharing. 
+            School project with production-ready features.
+          </p>
+          <p align="center">
+            <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
+              <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+            </a>
+            <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
+              <img src="https://img.shields.io/badge/Secure_Mesh-4ECDC4?style=for-the-badge" alt="Secure Mesh"/>
+            </a>
+            <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
+              <img src="https://img.shields.io/badge/Threat_Intelligence-FF6B6B?style=for-the-badge" alt="Threat Intel"/>
+            </a>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 JARVIS</h3>
+        <p align="center">
+          <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=JARVIS&theme=radical" width="100%" alt="JARVIS"/>
+          </a>
+          <p align="center">
+            AI-powered personal assistant system. 
+            Voice commands, automation, and intelligent task management.
+          </p>
+          <p align="center">
+            <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+            </a>
+            <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
+              <img src="https://img.shields.io/badge/AI_Assistant-9B59B6?style=for-the-badge" alt="AI Assistant"/>
+            </a>
+            <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
+              <img src="https://img.shields.io/badge/Voice_Control-3498DB?style=for-the-badge" alt="Voice Control"/>
+            </a>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
-- **Tech:** Python, FastAPI, P2P Networking
-- **Features:** Anonymous comms, decentralized, mobile-first UX
+---
 
-#### <img src="https://img.icons8.com/ios-filled/24/000000/ledger.png" width="20"/> VantaLedger
-> Mobile-first ledger for field-ready expenditure/sales tracking. API-driven, intuitive, and designed for real-time logging and future AI forecasting.
+### 🔬 Research & Development Projects
 
-- **Tech:** Python, FastAPI, SQL
-- **Features:** Real-time logging, minimal UI, mobile-first
+<div align="center">
+  
+  **Cybersecurity & Analysis**
+  
+  ![SAMscope](https://img.shields.io/badge/SAMscope-Python_Project-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Cyopsproj](https://img.shields.io/badge/Cyopsproj-Cybersecurity_Practice-FF6B6B?style=for-the-badge)
+  ![GhostWhisper](https://img.shields.io/badge/GhostWhisper-Stealth_Delivery-4ECDC4?style=for-the-badge)
+  
+  **Web & Applications**
+  
+  ![AFRIHUB](https://img.shields.io/badge/AFRIHUB-Web_Platform-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![SMEPOS](https://img.shields.io/badge/SMEPOS-Point_of_Sale-FFD93D?style=for-the-badge)
+  ![Xgene](https://img.shields.io/badge/Xgene-Web_Project-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+  **Special Projects**
+  
+  ![Dear Mama Charity](https://img.shields.io/badge/Dear_Mama_Charity-Tribute_WebApp-FF69B4?style=for-the-badge)
+  ![VOID](https://img.shields.io/badge/VOID-Private_Project-000000?style=for-the-badge)
+  
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhantoMojo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhantoMojo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantoMojo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+</div>
+
+---
+
+### 🎯 Current Focus
+
+- 🔒 **Advanced Cybersecurity**: Expanding expertise in cloud security and zero-trust architectures
+- 🤖 **AI Integration**: Building AI-powered security tools and automation solutions
+- 📈 **Algorithmic Trading**: Developing production-ready trading systems with AI integration
+- 🌐 **Web3 Security**: Exploring blockchain security and DeFi protection mechanisms
+- 📱 **Mobile Security**: Developing mobile-first security applications
+- 🧠 **AI Reasoning Models**: Advancing hierarchical reasoning and decision-making systems
 
 ---
 
@@ -51,25 +234,34 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🌐 Connect & Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhantoMojo&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhantoMojo&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantoMojo&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  
+  <a href="mailto:mirungu015@proton.me">
+    <img src="https://img.shields.io/badge/Email-mirungu015@proton.me-blue?style=for-the-badge&logo=protonmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michael-irungu-8a233926a">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Irungu%20Muriithi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/PhantoMojo">
+    <img src="https://img.shields.io/badge/Twitter-@PhantoMojo-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/PhantoMojo?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+  
+</div>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:mirungu015@proton.me"><img src="https://img.shields.io/badge/Email-mirungu015@proton.me-blue?style=flat-square&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/michael-irungu-8a233926a"><img src="https://img.shields.io/badge/LinkedIn-Michael%20Irungu%20Muriithi-blue?style=flat-square&logo=linkedin"/></a>
-</p>
-
----
-
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Let's+build+something+meaningful+together!" alt="Let's Connect"/>
-</p> 
+  
+  <br/>
+  
+  <img src="https://github.com/PhantoMojo/PhantoMojo/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+</div> 
