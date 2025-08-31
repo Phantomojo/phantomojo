@@ -1,8 +1,25 @@
 <!-- Profile README for Michael Irungu Muriithi (PhantoMojo) -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+Irungu+Muriithi+(PhantoMojo);Software+Developer+%7C+Cybersecurity+Pro+%7C+AI+Tools+Specialist;Remote-Ready+%7C+Creative+Technologist+%7C+Evolving+Architect+of+Meaning" alt="Typing SVG"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+Irungu+Muriithi+(PhantoMojo);Software+Developer+%7C+Cybersecurity+Pro+%7C+AI+Tools+Specialist;Remote-Ready+%7C+Creative+Technologist+%7C+Evolving+Architect+of+Meaning" alt="Typing SVG"/>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=PhantoMojo&style=flat-square&color=00FF00" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-ONLINE%20%7C%20ACTIVE%20%7C%20SECURE-00FF00?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-REMOTE%20%7C%20KENYA-00FF00?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Clearance-Level-BLACK%20OPS-FF0000?style=flat-square" alt="Clearance"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Mission_Status-QUANTUM%20SECURITY%20PROTOCOLS-FF0000?style=for-the-badge" alt="Mission Status"/>
+  <img src="https://img.shields.io/badge/Next_Objective-AI%20Trading%20Algorithms-00FF00?style=for-the-badge" alt="Next Objective"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/System_Status-ONLINE%20%7C%20HACKING%20%7C%20LEARNING-00FF00?style=for-the-badge" alt="System Status"/>
+  <img src="https://img.shields.io/badge/Security_Level-MAXIMUM%20PARANOIA-FF0000?style=for-the-badge" alt="Security Level"/>
+</div>
 
 ---
 
@@ -71,6 +88,15 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Let's+build+something+meaningful+together!" alt="Let's Connect"/>
-</p> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Let's+build+something+meaningful+together!" alt="Let's Connect"/>
+  
+  <br/>
+  
+  <img src="https://github.com/PhantoMojo/PhantoMojo/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Status-Coding%20%7C%20Learning%20%7C%20Growing-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Mood-Creative%20%7C%20Focused%20%7C%20Chill-blue?style=for-the-badge" alt="Mood"/>
+</div> 
