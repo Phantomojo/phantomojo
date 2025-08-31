@@ -14,6 +14,11 @@
   
   <img src="https://img.shields.io/badge/Currently%20Hacking-AI%20Trading%20Algorithms-red?style=for-the-badge" alt="Current Focus"/>
   <img src="https://img.shields.io/badge/Next%20Mission-Quantum%20Security-blue?style=for-the-badge" alt="Next Mission"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/System_Status-Online%20%7C%20Hacking%20%7C%20Learning-green?style=for-the-badge" alt="System Status"/>
+  <img src="https://img.shields.io/badge/Security_Level-Maximum%20Paranoia-red?style=for-the-badge" alt="Security Level"/>
 </div>
 
 ---
@@ -228,6 +233,29 @@ Think of me as the **digital architect** who doesn't just follow the blueprint�
 
 ---
 
+### ⚡ This Week's Activity
+
+<div align="center">
+  
+  **📈 Time Spent Coding (Estimated)**
+  
+  ```txt
+  Python         ████████████████████████░░░░   85.2%
+  TypeScript     ████████░░░░░░░░░░░░░░░░░░░░   25.1%
+  Security       ██████░░░░░░░░░░░░░░░░░░░░░░   18.7%
+  AI/ML          █████░░░░░░░░░░░░░░░░░░░░░░░   15.3%
+  ```
+  
+  **🎯 Current Focus Areas**
+  
+  <img src="https://img.shields.io/badge/Primary-AI%20Trading%20Algorithms-red?style=for-the-badge" alt="Primary"/>
+  <img src="https://img.shields.io/badge/Secondary-Cybersecurity%20Research-blue?style=for-the-badge" alt="Secondary"/>
+  <img src="https://img.shields.io/badge/Experimental-Quantum%20Security-purple?style=for-the-badge" alt="Experimental"/>
+  
+</div>
+
+---
+
 ### 🎮 What I'm Up To
 
 <div align="center">
@@ -243,6 +271,56 @@ Think of me as the **digital architect** who doesn't just follow the blueprint�
   <img src="https://img.shields.io/badge/IDE-Cursor%20%7C%20VS%20Code%20%7C%20Vim-blue?style=for-the-badge" alt="IDE"/>
   <img src="https://img.shields.io/badge/OS-Kali%20Linux%20%7C%20Ubuntu%20%7C%20WSL-green?style=for-the-badge" alt="OS"/>
   <img src="https://img.shields.io/badge/Setup-Multiple%20Monitors%20%7C%20Mechanical%20Keyboard%20%7C%20Coffee-yellow?style=for-the-badge" alt="Setup"/>
+  
+</div>
+
+---
+
+### 🎲 Interactive Zone
+
+<div align="center">
+  
+  **🎯 Challenge Me**
+  
+  <a href="https://github.com/PhantoMojo/PhantoMojo/issues/new?title=Challenge%20Accepted&body=Hey%20PhantoMojo!%20I%20challenge%20you%20to%20build%20something%20awesome.%20Here%27s%20my%20idea...">
+    <img src="https://img.shields.io/badge/Challenge_Me-Build%20Something%20Cool-orange?style=for-the-badge" alt="Challenge Me"/>
+  </a>
+  
+  <a href="https://github.com/PhantoMojo/PhantoMojo/issues/new?title=Security%20Audit%20Request&body=I%20need%20your%20expertise%20for%20a%20security%20audit...">
+    <img src="https://img.shields.io/badge/Security_Audit-Request%20Expertise-red?style=for-the-badge" alt="Security Audit"/>
+  </a>
+  
+  <a href="https://github.com/PhantoMojo/PhantoMojo/issues/new?title=AI%20Collaboration&body=Let%27s%20work%20on%20something%20AI-powered%20together...">
+    <img src="https://img.shields.io/badge/AI_Collab-Build%20the%20Future-purple?style=for-the-badge" alt="AI Collaboration"/>
+  </a>
+  
+  <br/>
+  
+  **🎪 Fun Facts**
+  
+  <details>
+    <summary>🎭 Click to reveal my coding philosophy</summary>
+    
+    > "I don't write code—I compose digital symphonies where bugs are just unexpected jazz solos."
+    
+  </details>
+  
+  <details>
+    <summary>🔮 Click to see my prediction for 2025</summary>
+    
+    > "AI will become so integrated into cybersecurity that hackers will need AI to hack AI."
+    
+  </details>
+  
+  <details>
+    <summary>🎵 Click to see what's on my coding playlist</summary>
+    
+    - **Lofi Beats** - For deep focus sessions
+    - **Synthwave** - For late-night hacking
+    - **Jazz** - For creative problem solving
+    - **Silence** - For debugging (when things get serious)
+    
+  </details>
   
 </div>
 
