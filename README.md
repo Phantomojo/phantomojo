@@ -8,24 +8,35 @@
   <img src="https://komarev.com/ghpvc/?username=PhantoMojo&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Kenya-blue?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Vibe-Coding%20%7C%20Rule%20Breaker-purple?style=flat-square" alt="Vibe"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Currently%20Hacking-AI%20Trading%20Algorithms-red?style=for-the-badge" alt="Current Focus"/>
+  <img src="https://img.shields.io/badge/Next%20Mission-Quantum%20Security-blue?style=for-the-badge" alt="Next Mission"/>
 </div>
 
 ---
 
 ### 👋 About Me
 
-I'm a multi-skilled, highly adaptable professional thriving at the intersection of **software development**, **cybersecurity**, and **AI-powered tools**. My approach—often called "vibe coding"—blends technical precision with creative intuition, building robust, human-centered solutions.
+I'm a **multi-skilled, highly adaptable professional** thriving at the intersection of **software development**, **cybersecurity**, and **AI-powered tools**. My approach—often called "vibe coding"—blends technical precision with creative intuition, building robust, human-centered solutions.
+
+Think of me as the **digital architect** who doesn't just follow the blueprint—I redesign the entire building while it's still standing. 🏗️⚡
 
 - 🛡️ **Cybersecurity Professional** (Offensive & Defensive, DFIR, Threat Intelligence)
 - 🧑‍💻 **Software Developer** (Python, FastAPI, CLI, SQL, PowerShell, TypeScript)
 - 🤖 **AI Tools & IDEs Specialist** (ChatGPT, DeepSeek, Cursor, Windsurf)
 - 🌍 **Remote-Ready**: Proven experience collaborating and delivering in distributed teams
+- 🎯 **Rule Breaker**: I don't just solve problems—I redefine them
 
 > "I don't chase the spotlight — I rewire the shadows."
+> 
+> *"The best code is the code that doesn't exist yet."*
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
 <div align="center">
   
@@ -75,7 +86,7 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Creations
 
 <div align="center">
   
@@ -88,8 +99,8 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=hedgefund-lite&theme=radical" width="100%" alt="HedgeFund-Lite"/>
           </a>
           <p align="center">
-            Production-hardened algorithmic trading system with AI integration. 
-            Advanced financial modeling and automated trading strategies.
+            <strong>Production-hardened algorithmic trading system</strong> with AI integration. 
+            Where traditional trading meets machine learning—and wins.
           </p>
           <p align="center">
             <a href="https://github.com/Phantomojo/hedgefund-lite" target="_blank">
@@ -111,8 +122,8 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=HRM&theme=radical" width="100%" alt="HRM"/>
           </a>
           <p align="center">
-            Official release of the Hierarchical Reasoning Model. 
-            Advanced AI reasoning and decision-making framework.
+            <strong>Official release of the Hierarchical Reasoning Model.</strong> 
+            Teaching AI to think like a human—but better.
           </p>
           <p align="center">
             <a href="https://github.com/Phantomojo/HRM" target="_blank">
@@ -136,8 +147,8 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=GhostWire-secure-mesh-communication&theme=radical" width="100%" alt="GhostWire"/>
           </a>
           <p align="center">
-            Secure mesh communication system for anonymous, decentralized threat intelligence sharing. 
-            School project with production-ready features.
+            <strong>Secure mesh communication system</strong> for anonymous, decentralized threat intelligence sharing. 
+            Because sometimes you need to be invisible.
           </p>
           <p align="center">
             <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank">
@@ -159,8 +170,8 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phantomojo&repo=JARVIS&theme=radical" width="100%" alt="JARVIS"/>
           </a>
           <p align="center">
-            AI-powered personal assistant system. 
-            Voice commands, automation, and intelligent task management.
+            <strong>AI-powered personal assistant system.</strong> 
+            Your digital butler that actually gets things done.
           </p>
           <p align="center">
             <a href="https://github.com/Phantomojo/JARVIS" target="_blank">
@@ -182,7 +193,7 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
-### 🔬 Research & Development Projects
+### 🔬 Research & Development Lab
 
 <div align="center">
   
@@ -207,7 +218,7 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhantoMojo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
@@ -217,7 +228,27 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 
 ---
 
-### 🎯 Current Focus
+### 🎮 What I'm Up To
+
+<div align="center">
+  
+  **Current Vibes**
+  
+  <img src="https://img.shields.io/badge/Listening_to-Lofi%20Beats%20%7C%20Synthwave%20%7C%20Jazz-purple?style=for-the-badge" alt="Music"/>
+  <img src="https://img.shields.io/badge/Reading-Quantum%20Computing%20%7C%20AI%20Papers%20%7C%20Sci-Fi-orange?style=for-the-badge" alt="Reading"/>
+  <img src="https://img.shields.io/badge/Watching-Mr.%20Robot%20%7C%20Silicon%20Valley%20%7C%20Tech%20Talks-red?style=for-the-badge" alt="Watching"/>
+  
+  **Work Mode**
+  
+  <img src="https://img.shields.io/badge/IDE-Cursor%20%7C%20VS%20Code%20%7C%20Vim-blue?style=for-the-badge" alt="IDE"/>
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux%20%7C%20Ubuntu%20%7C%20WSL-green?style=for-the-badge" alt="OS"/>
+  <img src="https://img.shields.io/badge/Setup-Multiple%20Monitors%20%7C%20Mechanical%20Keyboard%20%7C%20Coffee-yellow?style=for-the-badge" alt="Setup"/>
+  
+</div>
+
+---
+
+### 🎯 Current Missions
 
 - 🔒 **Advanced Cybersecurity**: Expanding expertise in cloud security and zero-trust architectures
 - 🤖 **AI Integration**: Building AI-powered security tools and automation solutions
@@ -225,12 +256,26 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
 - 🌐 **Web3 Security**: Exploring blockchain security and DeFi protection mechanisms
 - 📱 **Mobile Security**: Developing mobile-first security applications
 - 🧠 **AI Reasoning Models**: Advancing hierarchical reasoning and decision-making systems
+- ⚡ **Quantum Computing**: Preparing for the next generation of security challenges
 
 ---
 
 ### 🧭 My Philosophy
 
 > Technology should empower, create order from chaos, and enable authentic expression. I build solutions that are technically sound, human-centered, and meaningful. As an "Evolving Architect of Self and Meaning," I continuously refine my skills and approach.
+
+**The Code of the Vibe:**
+- 🎯 **Precision over perfection** - Get it working, then make it beautiful
+- 🚀 **Innovation over convention** - Break the rules, but know why they exist
+- 🤝 **Collaboration over competition** - We're all building the future together
+- 💡 **Creativity over conformity** - The best solutions come from thinking differently
+
+**Random Facts About Me:**
+- 🎵 I code to the rhythm of lofi beats and synthwave
+- 🎮 I believe debugging is just reverse engineering your own thoughts
+- 🌙 I'm most productive when the world is asleep
+- ☕ Coffee is my debugging fuel
+- 🎭 I treat every project like a performance art piece
 
 ---
 
@@ -254,6 +299,10 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
     <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
   
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Available_for-Collaborations%20%7C%20Consulting%20%7C%20Mentoring-green?style=for-the-badge" alt="Available For"/>
+  
 </div>
 
 ---
@@ -264,4 +313,9 @@ I'm a multi-skilled, highly adaptable professional thriving at the intersection 
   <br/>
   
   <img src="https://github.com/PhantoMojo/PhantoMojo/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Status-Coding%20%7C%20Learning%20%7C%20Growing-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Mood-Creative%20%7C%20Focused%20%7C%20Chill-blue?style=for-the-badge" alt="Mood"/>
 </div> 
