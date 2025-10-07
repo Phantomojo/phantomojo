@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Michael Muriithi (PhantoMojo)
+# 👋 Hi there, I'm Michael Muriithi (Phantomojo)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Cybersecurity+Expert;Full-Stack+Developer+%7C+System+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
@@ -225,5 +225,5 @@ I believe in building solutions that not only solve problems but create new poss
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
 
-⭐️ From PhantoMojo | Let's innovate together!
+⭐️ From Phantomojo | Let's innovate together!
 <!-- Updated: Tue Oct  7 07:11:44 PM EAT 2025 -->
