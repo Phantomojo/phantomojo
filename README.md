@@ -1,389 +1,252 @@
-<!-- Profile README for Michael Irungu Muriithi (PhantoMojo) -->
+# 👋 Hi there, I'm Michael Muriithi (PhantoMojo)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+Irungu+Muriithi+(PhantoMojo);Software+Developer+%7C+Cybersecurity+Pro+%7C+AI+Tools+Specialist;Remote-Ready+%7C+Creative+Technologist+%7C+Evolving+Architect+of+Meaning" alt="Typing SVG"/>
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=PhantoMojo&style=flat-square&color=00FF00" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-ONLINE%20%7C%20ACTIVE%20%7C%20SECURE-00FF00?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-REMOTE%20%7C%20KENYA-00FF00?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Clearance-Level-BLACK%20OPS-FF0000?style=flat-square" alt="Clearance"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Mission_Status-QUANTUM%20SECURITY%20PROTOCOLS-FF0000?style=for-the-badge" alt="Mission Status"/>
-  <img src="https://img.shields.io/badge/Next_Objective-AI%20Trading%20Algorithms-00FF00?style=for-the-badge" alt="Next Objective"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/System_Status-ONLINE%20%7C%20HACKING%20%7C%20LEARNING-00FF00?style=for-the-badge" alt="System Status"/>
-  <img src="https://img.shields.io/badge/Security_Level-MAXIMUM%20PARANOIA-FF0000?style=for-the-badge" alt="Security Level"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Freelancer.+Student.+Specter+in+the+system.;AI%2FML+Engineer+%7C+Cybersecurity+Expert;Full-Stack+Developer+%7C+System+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Phantomojo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Phantomojo?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Phantomojo?label=Stars&style=social" alt="GitHub stars" />
+</div>
+
+## 🚀 About Me
+
+**Location:** Nairobi, Kenya  
+**Status:** Freelancer | Student | Specter in the system  
+**Hireable:** ✅ Available for exciting projects  
+**Philosophy:** "Vibe Coding" - Intuitive problem-solving with systems thinking
+
+I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersecurity**, **Financial Technology**, and **System Architecture**. With **29+ complex projects** spanning production-grade trading systems, AI reasoning models, cybersecurity platforms, and agricultural technology, I bring a unique blend of technical excellence and innovative thinking.
+
+---
+
+## 🏆 Major Projects Portfolio
+
+### 🤖 **AI/ML & Research Projects**
+
+#### **HRM - Hierarchical Reasoning Model**
+- **GitHub:** [Phantomojo/HRM](https://github.com/Phantomojo/HRM)
+- **Description:** Novel recurrent architecture for sequential reasoning tasks
+- **Tech Stack:** Python, PyTorch, CUDA, FlashAttention
+- **Achievement:** 27M parameters, outperforms larger models on ARC benchmark
+- **Impact:** High performance on complex tasks (Sudoku, maze solving) with minimal training data
+
+#### **HEDGEFUND-LITE - Production Trading System**
+- **GitHub:** [Phantomojo/hedgefund-lite](https://github.com/Phantomojo/hedgefund-lite)
+- **Description:** Production-hardened algorithmic trading system with AI integration
+- **Tech Stack:** Python, FastAPI, TensorFlow, PostgreSQL, Redis, Kubernetes, Docker, AWS
+- **Features:** 66+ ML features, multi-API integration, intelligent risk management, real-time dashboard
+- **Security:** Military-grade encryption (AES-256), zero-trust architecture
+
+#### **Mali-Connect - AI Livestock Assessment Platform**
+- **GitHub:** [Phantomojo/mali-connect-app](https://github.com/Phantomojo/mali-connect-app)
+- **Description:** 3D visualization, health scoring, and ecosystem integration for modern agriculture
+- **Tech Stack:** React 19, TypeScript, Three.js, Groq API, Llama 3.1 70B, Tailwind CSS
+- **Features:** AI-powered analysis, disease management, financial services, SMS simulator
+- **Impact:** Multi-language support (Swahili, Kikuyu, Luhya), mobile-first design
+
+### 🔒 **Cybersecurity & Privacy Projects**
+
+#### **SENTRI - Project Guardian (Mobile Money Security)**
+- **GitHub:** [Phantomojo/SENTRI](https://github.com/Phantomojo/SENTRI)
+- **Description:** AI-Orchestrated, Multi-Layered Security Platform for Mobile Money
+- **Tech Stack:** Node.js, Express.js, TypeScript, MongoDB, React, Socket.IO
+- **Features:** AI Risk Engine, Geo-Velocity Check, SIM-as-a-Token, Hold & Challenge
+- **Security:** Real-time transaction analysis, hardware-bound authentication
+
+#### **Honeypot Guardian - Threat Intelligence Platform**
+- **GitHub:** [Phantomojo/honeypot-guardian](https://github.com/Phantomojo/honeypot-guardian)
+- **Description:** Advanced cybersecurity research with multi-protocol honeypot systems
+- **Tech Stack:** Python, AWS, honeypot systems, threat intelligence
+- **Features:** AWS S3 log storage, SNS alerts, threat intelligence collection
+- **Research:** Deceptifeed, Cybersecurity-Honeypots, Honeyscanner, SWARM Framework
+
+#### **Omarchy Privacy Stack**
+- **GitHub:** [Phantomojo/omarchy](https://github.com/Phantomojo/omarchy)
+- **Description:** Enterprise-grade privacy and security system
+- **Tech Stack:** GCP, Tailscale, AdGuard Home, DNS filtering, proxy management
+- **Features:** Cloud infrastructure, secure tunneling, DNS filtering, proxy anonymization
+
+### 🌱 **Agricultural & Climate Technology**
+
+#### **ORUN.IO - Climate Impact Verification Platform**
+- **GitHub:** [Phantomojo/ORUN.IO](https://github.com/Phantomojo/ORUN.IO)
+- **Description:** Satellite analytics with community data collection
+- **Tech Stack:** HTML5, CSS3, JavaScript, Three.js, GSAP, smart contracts
+- **Features:** 12+ satellite constellations, BACI methodology, blockchain records
+- **Impact:** Climate finance transformation through satellite technology
+
+#### **MAONO Agricultural Intelligence Platform**
+- **GitHub:** [Phantomojo/maono-agriculture-platform](https://github.com/Phantomojo/maono-agriculture-platform)
+- **Description:** Agricultural ecosystem platform for African farmers
+- **Tech Stack:** React 18, TypeScript, Material-UI, React Leaflet, React Globe.gl
+- **Features:** Weather monitoring, market prices, farm management, data visualization
+
+### 💰 **Financial Technology Projects**
+
+#### **Vanta-Ledger - Mobile-First Financial Intelligence**
+- **GitHub:** [Phantomojo/Vanta-ledger](https://github.com/Phantomojo/Vanta-ledger)
+- **Description:** Field-ready expenditure tracking with AI forecasting
+- **Tech Stack:** Python, FastAPI, SQL
+- **Features:** Real-time logging, API-driven architecture, offline capability
+- **Security:** Encrypted data storage, audit trails, multi-factor authentication
+
+### 🤖 **AI Assistant & Automation**
+
+#### **JARVIS - AI Personal Assistant**
+- **GitHub:** [Phantomojo/JARVIS](https://github.com/Phantomojo/JARVIS)
+- **Description:** Voice commands, natural language processing, task automation
+- **Tech Stack:** Python, Speech Recognition, NLP, FastAPI, SQLite
+- **Features:** Smart home integration, contextual understanding, privacy-first approach
+
+#### **GhostWire - Secure Mesh Communication**
+- **GitHub:** [Phantomojo/GhostWire-secure-mesh-communication](https://github.com/Phantomojo/GhostWire-secure-mesh-communication)
+- **Description:** Anonymous, decentralized threat intelligence sharing
+- **Tech Stack:** TypeScript, Node.js, WebRTC, WebAssembly, Crypto
+- **Features:** P2P networking, end-to-end encryption, anonymous routing, zero-knowledge proofs
+
+---
+
+## 🛠️ **Technology Stack**
+
+### **Programming Languages**
+- **Primary:** Python, TypeScript, JavaScript, HTML, Shell, Bash
+- **Secondary:** CSS, SQL, Go, Rust, Java, C/C++
+
+### **Frameworks & Libraries**
+- **Frontend:** React 18/19, Three.js, Material-UI, Tailwind CSS, Framer Motion
+- **Backend:** FastAPI, Node.js, Express.js, Python
+- **AI/ML:** TensorFlow, PyTorch, Groq API, Llama 3.1 70B, Scikit-learn
+- **3D Graphics:** Three.js, Cesium, WebGL, React Three Fiber, @react-three/drei
+- **Databases:** PostgreSQL, MongoDB, Redis, SQLite
+
+### **Cloud & Deployment**
+- **Platforms:** AWS, GCP, Vercel, Netlify, Railway, Surge.sh, GitHub Pages
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** GitHub Actions
+
+### **Security & Cryptography**
+- **Encryption:** AES-256, TOTP, Zero-knowledge proofs
+- **Authentication:** SIM-as-a-Token, Hardware-bound authentication
+- **Network Security:** VPN, Proxy technologies, DNS filtering
+
+### **Specialized Domains**
+- **Financial Technology:** Algorithmic trading, Risk management, Mobile money security
+- **Agricultural Technology:** Livestock assessment, Climate impact verification
+- **Cybersecurity:** Threat intelligence, Honeypot systems, Security analysis, Privacy engineering
+- **AI/ML:** Hierarchical reasoning, Real-time analysis, Trading algorithms, Computer vision
+- **3D Visualization:** Interactive models, Real-time rendering, WebGL
+- **System Administration:** Linux, Arch Linux, Hyprland, Privacy stacks
+
+---
+
+## 📊 **Project Statistics**
+
+### **Total Projects:** 29+ Complex and Impressive Projects
+- **GitHub Repositories:** 24 public repositories (20 existing + 4 new)
+- **Local Projects:** 9+ major local projects
+- **Production-Grade:** 8+ projects with full deployment and testing
+- **Research-Level:** 5+ projects with academic documentation
+- **Enterprise-Ready:** 6+ projects with security and scalability
+
+### **By Technology:**
+- **Python Projects:** 8+ (Trading, AI, Cybersecurity, Automation)
+- **TypeScript/JavaScript Projects:** 6+ (Web apps, 3D visualization, Mobile money)
+- **HTML/CSS Projects:** 4+ (Web development, Portfolios)
+- **Shell/Bash Projects:** 3+ (System configuration, Automation)
+
+### **By Domain:**
+- **AI/ML Projects:** 5+ (HRM, Trading systems, Livestock assessment)
+- **Cybersecurity Projects:** 4+ (Honeypots, Privacy stacks, Security analysis)
+- **Financial Technology:** 3+ (Trading systems, Mobile money security, Ledgers)
+- **Agricultural Technology:** 2+ (Livestock assessment, Climate verification)
+- **Web Development:** 6+ (Portfolios, Applications, Platforms)
+
+---
+
+## 🔒 **Security & Privacy Implementation**
+
+### **Repository Security Status:**
+- **🔒 Private Repositories (4):** Fully secure, access-controlled
+  - dear-mama-charity, mecagent-copilot, omarchy-wireguard-vpn, Cyopsproj
+- **🌐 Public with Legal Protection (3):** Visible with restrictive licenses
+  - honeypot-guardian, privacy-stack-standalone, hedgefund-lite
+- **🌐 Public Showcase (8+):** Open source and professional visibility
+  - mali-connect-app, maono-agriculture-platform, ORUN.IO, portfolio, JARVIS, HRM
+
+### **Security Features:**
+- **Secret Scanning:** Enabled on all repositories
+- **Push Protection:** Prevents accidental exposure of sensitive data
+- **Legal Protection:** Restrictive licenses on sensitive repositories
+- **Access Control:** Private repositories for intellectual property
+
+---
+
+## 🎯 **Current Focus Areas**
+
+- **Advanced Cybersecurity** - Threat intelligence, honeypot systems, privacy engineering
+- **AI Integration** - Machine learning, neural networks, cognitive modeling
+- **Algorithmic Trading** - Real-time market analysis, risk management
+- **Web3 Security** - Blockchain security, smart contract auditing
+- **Mobile Security** - Mobile money security, authentication systems
+- **AI Reasoning Models** - Hierarchical reasoning, cognitive architectures
+- **Quantum Computing** - Quantum-resistant cryptography, quantum algorithms
+
+---
+
+## 📈 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phantomojo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantomojo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phantomojo&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 👋 About Me
+## 🏆 **Achievements & Recognition**
 
-I'm a **multi-skilled, highly adaptable professional** thriving at the intersection of **software development**, **cybersecurity**, and **AI-powered tools**. My approach—often called "vibe coding"—blends technical precision with creative intuition, building robust, human-centered solutions.
-
-Think of me as the **digital architect** who doesn't just follow the blueprint—I redesign the entire building while it's still standing. 🏗️⚡
-
-- 🛡️ **Cybersecurity Professional** (Offensive & Defensive, DFIR, Threat Intelligence)
-- 🧑‍💻 **Software Developer** (Python, FastAPI, CLI, SQL, PowerShell, TypeScript)
-- 🤖 **AI Tools & IDEs Specialist** (ChatGPT, DeepSeek, Cursor, Windsurf)
-- 🌍 **Remote-Ready**: Proven experience collaborating and delivering in distributed teams
-- 🎯 **Rule Breaker**: I don't just solve problems—I redefine them
-
-> "I don't chase the spotlight — I rewire the shadows."
-> 
-> *"The best code is the code that doesn't exist yet."*
+- **29+ Complex Projects** across multiple domains
+- **Production-Grade Systems** with full deployment and testing
+- **Research-Level Projects** with academic documentation
+- **Enterprise-Ready Solutions** with security and scalability
+- **Open Source Contributions** to agricultural and climate technology
+- **Cybersecurity Research** with threat intelligence and privacy engineering
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🤝 **Let's Connect**
 
 <div align="center">
-  
-  **Languages & Frameworks**
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  
-  **AI & Machine Learning**
-  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  
-  **Security & Tools**
-  
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-  
-  **Development Tools**
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-  
-</div>
-
----
-
-### 🚀 Core Competencies
-
-- **Software Development:** Python, TypeScript, FastAPI, SQL, Bash, PowerShell, API Design, Mobile-First UX
-- **AI & Machine Learning:** Data Analysis, Algorithmic Thinking, AI Tool Integration, Neural Networks, Trading Algorithms
-- **Cybersecurity:** Penetration Testing, DFIR, Threat Intelligence, OSINT, Vulnerability Assessment, Secure Mesh Networks
-- **Systems:** Linux (Kali, Ubuntu, Parrot, BlackArch), Windows, WSL, Docker
-- **Tools:** Git, GitHub, ADB, Wireshark, Nmap, Metasploit, Burp Suite, Aircrack-ng
-
----
-
-### 🏆 Featured Creations
-
----
-
-#### 📈 **HEDGEFUND-LITE** | *Production-Grade Trading System*
-
-```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🚀 HEDGEFUND-LITE v2.1.0 - PRODUCTION HARDENED                            │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  📊 STATUS:    [ONLINE] 99.9% UPTIME | <1ms LATENCY                        │
-│  🔐 CLEARANCE: BLACK OPS - FINANCIAL INTELLIGENCE                          │
-│  🎯 MISSION:   Revolutionize algorithmic trading with AI-powered precision │
-│                                                                             │
-│  ⚡ CAPABILITIES:                                                           │
-│     • Real-time market analysis & predictive modeling                      │
-│     • Automated execution with risk management                             │
-│     • AI-driven decision making & portfolio optimization                   │
-│     • Multi-exchange support & arbitrage detection                         │
-│                                                                             │
-│  🛡️ SECURITY:                                                              │
-│     • Military-grade encryption (AES-256)                                  │
-│     • Zero-trust architecture & secure API endpoints                       │
-│     • Real-time threat detection & anomaly monitoring                      │
-│                                                                             │
-│  🛠️ TECH STACK: Python | FastAPI | TensorFlow | PostgreSQL | Redis        │
-│  🚀 DEPLOYMENT: Kubernetes | Docker | AWS | CI/CD Pipeline                │
-│                                                                             │
-│  🔗 ACCESS: https://github.com/Phantomojo/hedgefund-lite                   │
-│  📈 METRICS: Production-ready | AI Integration | Real-time Analytics      │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-#### 🧠 **HRM** | *Hierarchical Reasoning Model*
-
-```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🧠 HRM v1.0.0 - HIERARCHICAL REASONING MODEL                              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  📊 STATUS:    [ACTIVE] OFFICIAL RELEASE | 94.2% ACCURACY                  │
-│  🔐 CLEARANCE: TOP SECRET - ARTIFICIAL INTELLIGENCE                        │
-│  🎯 MISSION:   Teach AI to think like humans—but better                    │
-│                                                                             │
-│  ⚡ CAPABILITIES:                                                           │
-│     • Multi-layered reasoning & decision trees                             │
-│     • Cognitive modeling & pattern recognition                             │
-│     • Contextual understanding & logical inference                         │
-│     • Adaptive learning & knowledge representation                         │
-│                                                                             │
-│  🛡️ SECURITY:                                                              │
-│     • Ethical AI framework & bias detection                                │
-│     • Transparent decision making & explainable AI                         │
-│     • Secure model serving & access controls                               │
-│                                                                             │
-│  🛠️ TECH STACK: Python | PyTorch | Scikit-learn | NumPy | Pandas          │
-│  🚀 DEPLOYMENT: Research Platform | API Integration | Model Serving       │
-│                                                                             │
-│  🔗 ACCESS: https://github.com/Phantomojo/HRM                             │
-│  📈 METRICS: AI Reasoning | Machine Learning | Decision Making            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-#### 👻 **GHOSTWIRE** | *Secure Mesh Communication*
-
-```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  👻 GHOSTWIRE v1.5.0 - SECURE MESH COMMUNICATION                           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  📊 STATUS:    [STEALTH] ANONYMOUS OPERATIONS | 100% ENCRYPTED             │
-│  🔐 CLEARANCE: GHOST PROTOCOL - THREAT INTELLIGENCE                        │
-│  🎯 MISSION:   Enable invisible, decentralized threat intelligence sharing │
-│                                                                             │
-│  ⚡ CAPABILITIES:                                                           │
-│     • P2P networking & end-to-end encryption                              │
-│     • Anonymous routing & onion network support                            │
-│     • Threat pattern analysis & real-time detection                        │
-│     • Decentralized architecture & zero-knowledge proofs                   │
-│                                                                             │
-│  🛡️ SECURITY:                                                              │
-│     • Zero-knowledge proofs & quantum resistance                          │
-│     • Onion routing & traffic obfuscation                                 │
-│     • Untraceable communication & metadata protection                      │
-│                                                                             │
-│  🛠️ TECH STACK: TypeScript | Node.js | WebRTC | WebAssembly | Crypto     │
-│  🚀 DEPLOYMENT: Browser-based | P2P Network | Decentralized Architecture  │
-│                                                                             │
-│  🔗 ACCESS: https://github.com/Phantomojo/GhostWire-secure-mesh-communication │
-│  📈 METRICS: Secure Mesh | Threat Intelligence | Anonymous Comms          │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-#### 📊 **VANTALEDGER** | *Mobile-First Financial Intelligence*
-
-```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  📊 VANTALEDGER v2.0.0 - MOBILE-FIRST FINANCIAL INTELLIGENCE              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  📊 STATUS:    [ACTIVE] PRODUCTION-READY | REAL-TIME SYNC                  │
-│  🔐 CLEARANCE: BLACK OPS - FINANCIAL INTELLIGENCE                          │
-│  🎯 MISSION:   Mobile-first ledger for field-ready expenditure tracking    │
-│                                                                             │
-│  ⚡ CAPABILITIES:                                                           │
-│     • Real-time logging & API-driven architecture                          │
-│     • Intuitive interface & mobile-first UX                               │
-│     • AI forecasting & predictive analytics                                │
-│     • Offline capability & data synchronization                            │
-│                                                                             │
-│  🛡️ SECURITY:                                                              │
-│     • Encrypted data storage & secure API endpoints                        │
-│     • Audit trails & compliance reporting                                  │
-│     • Multi-factor authentication & role-based access                      │
-│                                                                             │
-│  🛠️ TECH STACK: Python | FastAPI | SQL | Mobile-First Design             │
-│  🚀 DEPLOYMENT: Cloud Infrastructure | API Integration | Mobile Ready     │
-│                                                                             │
-│  🔗 ACCESS: https://github.com/Phantomojo/VantaLedger                     │
-│  📈 METRICS: Financial Intelligence | Real-time Analytics | Mobile UX     │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-#### 🤖 **JARVIS** | *AI Personal Assistant*
-
-```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🤖 JARVIS v1.8.0 - AI PERSONAL ASSISTANT                                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  📊 STATUS:    [ACTIVE] 24/7 OPERATIONS | 96.8% ACCURACY                  │
-│  🔐 CLEARANCE: PERSONAL - ARTIFICIAL INTELLIGENCE                          │
-│  🎯 MISSION:   Your digital butler that actually gets things done          │
-│                                                                             │
-│  ⚡ CAPABILITIES:                                                           │
-│     • Voice commands & natural language processing                         │
-│     • Task automation & intelligent scheduling                             │
-│     • Smart home integration & IoT control                                 │
-│     • Contextual understanding & learning capabilities                     │
-│                                                                             │
-│  🛡️ SECURITY:                                                              │
-│     • Local processing & encrypted communication                           │
-│     • Privacy-first approach & data protection                            │
-│     • Secure voice recognition & command validation                        │
-│                                                                             │
-│  🛠️ TECH STACK: Python | Speech Recognition | NLP | FastAPI | SQLite     │
-│  🚀 DEPLOYMENT: Local Server | Voice Interface | API Integration         │
-│                                                                             │
-│  🔗 ACCESS: https://github.com/Phantomojo/JARVIS                         │
-│  📈 METRICS: AI Assistant | Voice Control | Task Automation              │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🔬 Research & Development Lab
-
-<div align="center">
-  
-  **Cybersecurity & Analysis**
-  
-  ![SAMscope](https://img.shields.io/badge/SAMscope-Python_Project-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Cyopsproj](https://img.shields.io/badge/Cyopsproj-Cybersecurity_Practice-FF6B6B?style=for-the-badge)
-  ![GhostWhisper](https://img.shields.io/badge/GhostWhisper-Stealth_Delivery-4ECDC4?style=for-the-badge)
-  
-  **Web & Applications**
-  
-  ![AFRIHUB](https://img.shields.io/badge/AFRIHUB-Web_Platform-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![SMEPOS](https://img.shields.io/badge/SMEPOS-Point_of_Sale-FFD93D?style=for-the-badge)
-  ![Xgene](https://img.shields.io/badge/Xgene-Web_Project-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  
-  **Special Projects**
-  
-  ![Dear Mama Charity](https://img.shields.io/badge/Dear_Mama_Charity-Tribute_WebApp-FF69B4?style=for-the-badge)
-  ![VOID](https://img.shields.io/badge/VOID-Private_Project-000000?style=for-the-badge)
-  
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhantoMojo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhantoMojo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantoMojo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</div>
-
----
-
-### ⚡ This Week's Activity
-
-<div align="center">
-  
-  **📈 Time Spent Coding (Estimated)**
-  
-  ```txt
-  Python         ████████████████████████░░░░   85.2%
-  TypeScript     ████████░░░░░░░░░░░░░░░░░░░░   25.1%
-  Security       ██████░░░░░░░░░░░░░░░░░░░░░░   18.7%
-  AI/ML          █████░░░░░░░░░░░░░░░░░░░░░░░   15.3%
-  ```
-  
-  **🎯 Current Focus Areas**
-  
-  <img src="https://img.shields.io/badge/Primary-AI%20Trading%20Algorithms-red?style=for-the-badge" alt="Primary"/>
-  <img src="https://img.shields.io/badge/Secondary-Cybersecurity%20Research-blue?style=for-the-badge" alt="Secondary"/>
-  <img src="https://img.shields.io/badge/Experimental-Quantum%20Security-purple?style=for-the-badge" alt="Experimental"/>
-  
-</div>
-
----
-
-### 🎯 Current Missions
-
-- 🔒 **Advanced Cybersecurity**: Expanding expertise in cloud security and zero-trust architectures
-- 🤖 **AI Integration**: Building AI-powered security tools and automation solutions
-- 📈 **Algorithmic Trading**: Developing production-ready trading systems with AI integration
-- 🌐 **Web3 Security**: Exploring blockchain security and DeFi protection mechanisms
-- 📱 **Mobile Security**: Developing mobile-first security applications
-- 🧠 **AI Reasoning Models**: Advancing hierarchical reasoning and decision-making systems
-- ⚡ **Quantum Computing**: Preparing for the next generation of security challenges
-
----
-
-### 🧭 My Philosophy
-
-> Technology should empower, create order from chaos, and enable authentic expression. I build solutions that are technically sound, human-centered, and meaningful. As an "Evolving Architect of Self and Meaning," I continuously refine my skills and approach.
-
-**The Code of the Vibe:**
-- 🎯 **Precision over perfection** - Get it working, then make it beautiful
-- 🚀 **Innovation over convention** - Break the rules, but know why they exist
-- 🤝 **Collaboration over competition** - We're all building the future together
-- 💡 **Creativity over conformity** - The best solutions come from thinking differently
-
-**Random Facts About Me:**
-- 🎵 I code to the rhythm of lofi beats and synthwave
-- 🎮 I believe debugging is just reverse engineering your own thoughts
-- 🌙 I'm most productive when the world is asleep
-- ☕ Coffee is my debugging fuel
-- 🎭 I treat every project like a performance art piece
-
----
-
-### 🌐 Connect & Collaborate
-
-<div align="center">
-  
-  <a href="mailto:mirungu015@proton.me">
-    <img src="https://img.shields.io/badge/Email-mirungu015@proton.me-blue?style=for-the-badge&logo=protonmail" alt="Email"/>
+  <a href="mailto:ST02563362023@students.ouk.ac.ke">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/michael-irungu-8a233926a">
-    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Irungu%20Muriithi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://github.com/Phantomojo">
+    <img src="https://img.shields.io/badge/GitHub-Phantomojo-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/PhantoMojo">
-    <img src="https://img.shields.io/badge/Twitter-@PhantoMojo-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  <a href="https://www.linkedin.com/in/michael-muriithi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://phantomojo.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Shiny%20Cards%20Theme-667EEA?style=for-the-badge&logo=sparkles" alt="Portfolio"/>
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/PhantoMojo?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-  </a>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Available_for-Collaborations%20%7C%20Consulting%20%7C%20Mentoring-green?style=for-the-badge" alt="Available For"/>
-  
 </div>
+
+**Location:** Nairobi, Kenya  
+**Status:** Available for exciting projects
+
+---
+
+## 💡 **Philosophy**
+
+> *"Vibe Coding" - Where intuition meets systems thinking, and every line of code tells a story of innovation and impact.*
+
+I believe in building solutions that not only solve problems but create new possibilities. From production-grade trading systems to AI reasoning models, from cybersecurity platforms to agricultural technology - every project is a step toward a more intelligent, secure, and connected future.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Let's+build+something+meaningful+together!" alt="Let's Connect"/>
-  
-  <br/>
-  
-  <img src="https://github.com/PhantoMojo/PhantoMojo/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Status-Coding%20%7C%20Learning%20%7C%20Growing-brightgreen?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Mood-Creative%20%7C%20Focused%20%7C%20Chill-blue?style=for-the-badge" alt="Mood"/>
-</div> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Code;One+Project+at+a+Time" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
