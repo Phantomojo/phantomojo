@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Phantomojo/Phantomojo/main/banner.png" alt="PHANTOMOJO Banner" width="100%" />
-</div>
-
 # 👋 Hi there, I'm Michael Muriithi (PhantoMojo)
 
 <div align="center">
@@ -10,6 +6,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Phantomojo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Phantomojo?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Phantomojo?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
 ## 🌐 Connect with Me
