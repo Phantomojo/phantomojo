@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Michael Muriithi (Phantomojo)
+# 👋 Hi there, I'm Michael Irungu Muriithi (Phantomojo)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Cybersecurity+Expert;Full-Stack+Developer+%7C+System+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
@@ -14,9 +14,9 @@
 
 Discover my work and connect on these platforms!
 
-| **Michael Muriithi** | **GitHub** | **LinkedIn** | **Email** |
+| **Michael Irungu Muriithi** | **GitHub** | **LinkedIn** | **Email** |
 |---------------------|------------|--------------|-----------|
-| [Michael Muriithi](https://github.com/Phantomojo) | [Phantomojo](https://github.com/Phantomojo) | [Michael Muriithi](https://www.linkedin.com/in/michael-muriithi) | [Email](mailto:ST02563362023@students.ouk.ac.ke) |
+| [Michael Irungu Muriithi](https://github.com/Phantomojo) | [Phantomojo](https://github.com/Phantomojo) | [Michael Irungu Muriithi](https://www.linkedin.com/in/michael-irungu-8a233926a) | [Email](mailto:mirungu015@proton.me) |
 
 ## 🚀 About Me
 
@@ -207,7 +207,7 @@ As a versatile **AI/ML Engineer**, **Cybersecurity Expert**, and **Full-Stack De
 
 | **Email** | **Location** | **Status** |
 |-----------|--------------|------------|
-| [Email](mailto:ST02563362023@students.ouk.ac.ke) | Nairobi, Kenya | Available for exciting projects |
+| [Email](mailto:mirungu015@proton.me) | Nairobi, Kenya | Available for exciting projects |
 
 ## 💡 **Philosophy**
 
