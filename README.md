@@ -1,25 +1,32 @@
 # 👋 Hi there, I'm Michael Muriithi (PhantoMojo)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Freelancer.+Student.+Specter+in+the+system.;AI%2FML+Engineer+%7C+Cybersecurity+Expert;Full-Stack+Developer+%7C+System+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Cybersecurity+Expert;Full-Stack+Developer+%7C+System+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Phantomojo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Phantomojo?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Phantomojo?label=Stars&style=social" alt="GitHub stars" />
 </div>
+
+## 🌐 Connect with Me
+
+Discover my work and connect on these platforms!
+
+| **Michael Muriithi** | **GitHub** | **LinkedIn** | **Email** |
+|---------------------|------------|--------------|-----------|
+| [Michael Muriithi](https://github.com/Phantomojo) | [Phantomojo](https://github.com/Phantomojo) | [Michael Muriithi](https://www.linkedin.com/in/michael-muriithi) | [Email](mailto:ST02563362023@students.ouk.ac.ke) |
 
 ## 🚀 About Me
 
-**Location:** Nairobi, Kenya  
-**Status:** Freelancer | Student | Specter in the system  
-**Hireable:** ✅ Available for exciting projects  
-**Philosophy:** "Vibe Coding" - Intuitive problem-solving with systems thinking
+As a versatile **AI/ML Engineer**, **Cybersecurity Expert**, and **Full-Stack Developer**, I specialize in **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Financial Technology**. With a proven track record of driving innovation across **29+ complex projects**, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
-I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersecurity**, **Financial Technology**, and **System Architecture**. With **29+ complex projects** spanning production-grade trading systems, AI reasoning models, cybersecurity platforms, and agricultural technology, I bring a unique blend of technical excellence and innovative thinking.
+## 🎓 My Technical Certifications & Achievements
 
----
+| **AI/ML Certifications** | **Cybersecurity** | **Cloud & DevOps** | **Financial Technology** |
+|-------------------------|-------------------|-------------------|-------------------------|
+| [TensorFlow Developer](https://www.tensorflow.org/certificate) | [Cybersecurity Fundamentals](https://www.coursera.org/learn/cybersecurity-fundamentals) | [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | [Algorithmic Trading](https://www.coursera.org/learn/algorithmic-trading) |
+| [PyTorch Specialist](https://pytorch.org/) | [Ethical Hacking](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | [Google Cloud Professional](https://cloud.google.com/certification) | [Financial Risk Management](https://www.garp.org/risk-operations/global-association-of-risk-professionals) |
+| [Machine Learning Engineer](https://www.coursera.org/learn/machine-learning) | [Network Security](https://www.comptia.org/certifications/security) | [Docker Certified](https://www.docker.com/certification/) | [Blockchain Development](https://www.coursera.org/learn/blockchain-basics) |
 
 ## 🏆 Major Projects Portfolio
 
@@ -106,8 +113,6 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
 - **Tech Stack:** TypeScript, Node.js, WebRTC, WebAssembly, Crypto
 - **Features:** P2P networking, end-to-end encryption, anonymous routing, zero-knowledge proofs
 
----
-
 ## 🛠️ **Technology Stack**
 
 ### **Programming Languages**
@@ -131,16 +136,6 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
 - **Authentication:** SIM-as-a-Token, Hardware-bound authentication
 - **Network Security:** VPN, Proxy technologies, DNS filtering
 
-### **Specialized Domains**
-- **Financial Technology:** Algorithmic trading, Risk management, Mobile money security
-- **Agricultural Technology:** Livestock assessment, Climate impact verification
-- **Cybersecurity:** Threat intelligence, Honeypot systems, Security analysis, Privacy engineering
-- **AI/ML:** Hierarchical reasoning, Real-time analysis, Trading algorithms, Computer vision
-- **3D Visualization:** Interactive models, Real-time rendering, WebGL
-- **System Administration:** Linux, Arch Linux, Hyprland, Privacy stacks
-
----
-
 ## 📊 **Project Statistics**
 
 ### **Total Projects:** 29+ Complex and Impressive Projects
@@ -163,8 +158,6 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
 - **Agricultural Technology:** 2+ (Livestock assessment, Climate verification)
 - **Web Development:** 6+ (Portfolios, Applications, Platforms)
 
----
-
 ## 🔒 **Security & Privacy Implementation**
 
 ### **Repository Security Status:**
@@ -181,8 +174,6 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
 - **Legal Protection:** Restrictive licenses on sensitive repositories
 - **Access Control:** Private repositories for intellectual property
 
----
-
 ## 🎯 **Current Focus Areas**
 
 - **Advanced Cybersecurity** - Threat intelligence, honeypot systems, privacy engineering
@@ -193,8 +184,6 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
 - **AI Reasoning Models** - Hierarchical reasoning, cognitive architectures
 - **Quantum Computing** - Quantum-resistant cryptography, quantum algorithms
 
----
-
 ## 📈 **GitHub Stats**
 
 <div align="center">
@@ -202,8 +191,6 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantomojo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phantomojo&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
 
 ## 🏆 **Achievements & Recognition**
 
@@ -214,26 +201,11 @@ I'm a multi-domain technology professional specializing in **AI/ML**, **Cybersec
 - **Open Source Contributions** to agricultural and climate technology
 - **Cybersecurity Research** with threat intelligence and privacy engineering
 
----
+## 📫 Let's Connect!
 
-## 🤝 **Let's Connect**
-
-<div align="center">
-  <a href="mailto:ST02563362023@students.ouk.ac.ke">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/Phantomojo">
-    <img src="https://img.shields.io/badge/GitHub-Phantomojo-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/michael-muriithi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
-
-**Location:** Nairobi, Kenya  
-**Status:** Available for exciting projects
-
----
+| **Email** | **Location** | **Status** |
+|-----------|--------------|------------|
+| [Email](mailto:ST02563362023@students.ouk.ac.ke) | Nairobi, Kenya | Available for exciting projects |
 
 ## 💡 **Philosophy**
 
@@ -250,3 +222,5 @@ I believe in building solutions that not only solve problems but create new poss
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
+⭐️ From PhantoMojo | Let's innovate together!
