@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Phantomojo/Phantomojo/main/banner.png" alt="PHANTOMOJO Banner" width="100%" />
+</div>
+
 # 👋 Hi there, I'm Michael Muriithi (PhantoMojo)
 
 <div align="center">
