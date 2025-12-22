@@ -21,19 +21,64 @@
 ```bash
 #!/bin/bash
 # IDENTITY: Michael Irungu Muriithi (Phantomojo)
-# ROLE: AI Specialist | Cybersecurity Researcher | System Architect
+# ROLE: Cybersecurity Student | Solo Architect | AI Specialist
+# OPERATIONAL_MODE: SOLO_OPERATIVE [100% INDEPENDENT]
 
 class Phantomojo:
     def __init__(self):
         self.skills = ["AI/ML", "Cybersecurity", "FinTech", "SystemArch"]
-        self.experience = "29+ Complex Projects"
+        self.traits = ["Neurodivergent", "Hyper-focus", "Pattern_Recognition"]
         self.philosophy = "Build the future, one line at a time."
     
     def execute(self):
         return "Innovation.deployed()"
 ```
 
-I leverage **advanced AI solutions** and **military-grade security protocols** to build systems that defy expectations. From algorithmic trading engines to decentralized mesh networks, my code is designed to be **resilient, intelligent, and transformative**.
+### ❝ **PHILOSOPHY_KERNEL** // THE_MANIFESTO ❞
+
+> **"Vibe Coding" is high-velocity system orchestration.**
+
+In an era where AI handles the syntax, the engineer elevates to become the **Architect of Intelligence**. I don't just write code; I weave together neural networks, cryptographic protocols, and distributed systems into living, breathing digital ecosystems.
+
+**My Directive:** Transform abstract intuition into concrete, mission-critical systems at the speed of thought.
+
+---
+
+### [ 0x01a ] SYSTEM_ARCHITECTURE // THE_ORCHESTRATION
+
+```mermaid
+graph TD
+    User((PHANTOMOJO))
+    
+    subgraph AI_CORE [ARTIFICIAL_INTELLIGENCE]
+        HRM[HRM Reasoning_Model]
+        LLM[Llama-3.1 70B]
+        Transformers[HuggingFace]
+        User -->|Orchestrates| AI_CORE
+    end
+
+    subgraph SEC_GRID [CYBERSECURITY_GRID]
+        Ghost[GhostWire Mesh_Net]
+        Sentri[SENTRI Risk_Engine]
+        Honey[Honeypot Network]
+        User -->|Secures| SEC_GRID
+    end
+
+    subgraph FIN_OPS [FINANCIAL_OPERATIONS]
+        Hedge[HedgeFund-Lite Algo]
+        Vanta[Vanta-Ledger]
+        User -->|Deploys| FIN_OPS
+    end
+
+    AI_CORE -.->|Powers| FIN_OPS
+    SEC_GRID -.->|Protects| FIN_OPS
+    SEC_GRID -.->|Encrypts| AI_CORE
+
+    style User fill:#00FF9C,stroke:#000,stroke-width:2px,color:#000
+    style AI_CORE fill:#1a1a1a,stroke:#00FF9C,stroke-width:1px
+    style SEC_GRID fill:#1a1a1a,stroke:#00FF9C,stroke-width:1px
+    style FIN_OPS fill:#1a1a1a,stroke:#00FF9C,stroke-width:1px
+```
 
 ---
 
@@ -112,7 +157,14 @@ I leverage **advanced AI solutions** and **military-grade security protocols** t
 - **Status**: **ACTIVE SURVEILLANCE**
 - **Access**: [Review Source Code](https://github.com/Phantomojo/honeypot-guardian)
 
-#### 🛰️ **[INITIATIVE: ORUN.IO]**
+#### � **[TOOL: SAMSCOPE]**
+> *Python Security Analysis*
+- **Mission**: Advanced security scoping and analysis tool.
+- **Tech**: Python, Security Auditing.
+- **Status**: **ACTIVE**
+- **Access**: [Review Source Code](https://github.com/Phantomojo/SAMscope)
+
+#### �🛰️ **[INITIATIVE: ORUN.IO]**
 > *Orbital Analytics Interface*
 - **Mission**: Satellite-based climate impact verification.
 - **Tech**: Three.js, Blockchain, Satellite Constellations.
@@ -123,7 +175,43 @@ I leverage **advanced AI solutions** and **military-grade security protocols** t
 
 ---
 
-### [ 0x04 ] TELEMETRY // STATISTICS
+### [ 0x03b ] CIVILIAN_SECTOR // FULL_STACK_OPS
+
+#### 🧬 **[PLATFORM: MALI-CONNECT]**
+> *AI Livestock Assessment*
+- **Objective**: 3D visualization & health scoring for modern agriculture.
+- **Tech**: React 19, TypeScript, Three.js, Llama 3.1 70B.
+- **Status**: **DEPLOYED**
+- **Access**: [Review Source Code](https://github.com/Phantomojo/mali-connect-app)
+
+#### 🌾 **[SYSTEM: MAONO]**
+> *Agricultural Intelligence*
+- **Objective**: Ecosystem platform for farmer market intelligence.
+- **Tech**: React 18, TypeScript, Material-UI, Geospatial Data.
+- **Status**: **ACTIVE**
+- **Access**: [Review Source Code](https://github.com/Phantomojo/maono-agriculture-platform)
+
+---
+
+### [ 0x04 ] SYSTEM_ROADMAP // NEXT_BOOT
+
+| **PRIORITY** | **DIRECTIVE** | **STATUS** |
+|:---:|:---|:---:|
+| 1 | **Quantum-Resistant Cryptography** | `INITIALIZING...` |
+| 2 | **Autonomous AI Agents (Swarm)** | `COMPILING...` |
+| 3 | **Web3 / Smart Contract Auditing** | `LOADING...` |
+
+---
+
+### [ 0x05 ] INTEL_FEED // CURRENT_DOWNLOADS
+
+- 📖 **Reading**: *System Design Interview* by Alex Xu
+- 🎧 **Listening**: *Darknet Diaries* (Ep. 132: "The Spy")
+- 🔭 **Exploring**: Rust Async Runtimes (Tokio vs Smol)
+
+---
+
+### [ 0x06 ] TELEMETRY // STATISTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Phantomojo&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" alt="GitHub Stats" />
@@ -143,7 +231,7 @@ I leverage **advanced AI solutions** and **military-grade security protocols** t
 
 ---
 
-### [ 0x05 ] ENCRYPTED_UPLINK // CONTACT
+### [ 0x07 ] ENCRYPTED_UPLINK // CONTACT
 
 > Establishing secure connection...
 
