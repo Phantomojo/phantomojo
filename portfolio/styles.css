@@ -1,4 +1,4 @@
-/* Terminal Portfolio Styles */
+/* Terminal Portfolio Styles - Gold on Abyss Theme */
 * {
     margin: 0;
     padding: 0;
@@ -7,8 +7,8 @@
 
 body {
     font-family: 'Fira Code', monospace;
-    background: #0a0a0a;
-    color: #00ff00;
+    background: #010205;
+    color: #DB9202;
     line-height: 1.6;
     overflow-x: hidden;
 }
@@ -16,16 +16,16 @@ body {
 .terminal-container {
     min-height: 100vh;
     padding: 20px;
-    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+    background: linear-gradient(135deg, #010205 0%, #1a1a1a 100%);
 }
 
 /* Terminal Window Styles */
 .terminal-window {
     background: #1a1a1a;
-    border: 2px solid #00ff00;
+    border: 2px solid #DB9202;
     border-radius: 8px;
     margin-bottom: 20px;
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+    box-shadow: 0 0 20px rgba(219, 146, 2, 0.3);
     overflow: hidden;
 }
 
@@ -34,7 +34,7 @@ body {
     padding: 10px 15px;
     display: flex;
     align-items: center;
-    border-bottom: 1px solid #00ff00;
+    border-bottom: 1px solid #DB9202;
 }
 
 .terminal-buttons {
@@ -63,7 +63,7 @@ body {
 }
 
 .terminal-title {
-    color: #00ff00;
+    color: #DB9202;
     font-weight: 600;
     font-size: 14px;
 }
@@ -77,7 +77,7 @@ body {
 .typing-text {
     font-size: 18px;
     font-weight: 600;
-    color: #00ff00;
+    color: #DB9202;
     text-align: center;
     margin: 20px 0;
 }
@@ -93,25 +93,25 @@ body {
 
 .nav-item {
     background: #1a1a1a;
-    border: 2px solid #00ff00;
+    border: 2px solid #DB9202;
     padding: 12px 20px;
     border-radius: 6px;
     cursor: pointer;
     transition: all 0.3s ease;
     font-weight: 600;
-    color: #00ff00;
+    color: #DB9202;
 }
 
 .nav-item:hover {
-    background: #00ff00;
-    color: #000;
+    background: #DB9202;
+    color: #010205;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.4);
+    box-shadow: 0 5px 15px rgba(219, 146, 2, 0.4);
 }
 
 .nav-item.active {
-    background: #00ff00;
-    color: #000;
+    background: #DB9202;
+    color: #010205;
 }
 
 .nav-item i {
@@ -137,12 +137,12 @@ body {
 }
 
 .prompt {
-    color: #00ff00;
+    color: #DB9202;
     font-weight: 600;
 }
 
 .command {
-    color: #fff;
+    color: #EFE8AB;
     margin-left: 10px;
 }
 
@@ -156,7 +156,7 @@ body {
 
 .status-item {
     background: #1a1a1a;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
     padding: 15px;
     border-radius: 6px;
     display: flex;
@@ -175,15 +175,19 @@ body {
 }
 
 .status-value.black-ops {
-    color: #ff0000;
+    color: #DB9202;
 }
 
 .status-value.online {
-    color: #00ff00;
+    color: #DB9202;
 }
 
-.status-value.paranoid {
-    color: #ff6b6b;
+.status-value.active {
+    color: #BE123C;
+}
+
+.status-value.stealth {
+    color: #066306;
 }
 
 .about-text {
@@ -199,13 +203,13 @@ body {
     margin: 30px 0;
     padding: 20px;
     background: #1a1a1a;
-    border-left: 4px solid #00ff00;
+    border-left: 4px solid #DB9202;
     border-radius: 4px;
 }
 
 .philosophy h3 {
     margin-bottom: 15px;
-    color: #00ff00;
+    color: #DB9202;
 }
 
 .philosophy blockquote {
@@ -214,7 +218,7 @@ body {
     padding: 10px;
     background: #000;
     border-radius: 4px;
-    border-left: 3px solid #00ff00;
+    border-left: 3px solid #DB9202;
 }
 
 /* Projects Section */
@@ -226,7 +230,7 @@ body {
 
 .project-card {
     background: #1a1a1a;
-    border: 2px solid #00ff00;
+    border: 2px solid #DB9202;
     border-radius: 8px;
     padding: 20px;
     transition: all 0.3s ease;
@@ -234,7 +238,7 @@ body {
 
 .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(0, 255, 0, 0.3);
+    box-shadow: 0 10px 25px rgba(219, 146, 2, 0.3);
 }
 
 .project-header {
@@ -245,7 +249,7 @@ body {
 }
 
 .project-header h3 {
-    color: #00ff00;
+    color: #DB9202;
     font-size: 18px;
 }
 
@@ -257,18 +261,18 @@ body {
 }
 
 .project-status.online {
-    background: #00ff00;
-    color: #000;
+    background: #DB9202;
+    color: #010205;
 }
 
 .project-status.active {
-    background: #ff6b6b;
+    background: #BE123C;
     color: #fff;
 }
 
 .project-status.stealth {
-    background: #4ecdc4;
-    color: #000;
+    background: #066306;
+    color: #fff;
 }
 
 .project-content p {
@@ -285,25 +289,25 @@ body {
 
 .tech-tag {
     background: #333;
-    color: #00ff00;
+    color: #DB9202;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 12px;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
 }
 
 .project-link {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    color: #00ff00;
+    color: #DB9202;
     text-decoration: none;
     font-weight: 600;
     transition: all 0.3s ease;
 }
 
 .project-link:hover {
-    color: #fff;
+    color: #EFE8AB;
     transform: translateX(5px);
 }
 
@@ -316,13 +320,13 @@ body {
 
 .skill-category {
     background: #1a1a1a;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
     border-radius: 8px;
     padding: 20px;
 }
 
 .skill-category h3 {
-    color: #00ff00;
+    color: #DB9202;
     margin-bottom: 15px;
     font-size: 16px;
 }
@@ -335,17 +339,17 @@ body {
 
 .skill-tag {
     background: #333;
-    color: #00ff00;
+    color: #DB9202;
     padding: 6px 12px;
     border-radius: 20px;
     font-size: 12px;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
     transition: all 0.3s ease;
 }
 
 .skill-tag:hover {
-    background: #00ff00;
-    color: #000;
+    background: #DB9202;
+    color: #010205;
     transform: scale(1.05);
 }
 
@@ -359,7 +363,7 @@ body {
 
 .contact-item {
     background: #1a1a1a;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
     border-radius: 8px;
     padding: 20px;
     display: flex;
@@ -370,40 +374,40 @@ body {
 
 .contact-item:hover {
     transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.3);
+    box-shadow: 0 5px 15px rgba(219, 146, 2, 0.3);
 }
 
 .contact-item i {
     font-size: 24px;
-    color: #00ff00;
+    color: #DB9202;
     width: 30px;
 }
 
 .contact-info h3 {
-    color: #00ff00;
+    color: #DB9202;
     margin-bottom: 5px;
     font-size: 16px;
 }
 
 .contact-info a {
-    color: #fff;
+    color: #EFE8AB;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .contact-info a:hover {
-    color: #00ff00;
+    color: #DB9202;
 }
 
 .availability {
     background: #1a1a1a;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
     border-radius: 8px;
     padding: 20px;
 }
 
 .availability h3 {
-    color: #00ff00;
+    color: #DB9202;
     margin-bottom: 15px;
 }
 
@@ -415,17 +419,17 @@ body {
 
 .availability-tag {
     background: #333;
-    color: #00ff00;
+    color: #DB9202;
     padding: 8px 16px;
     border-radius: 20px;
     font-size: 14px;
-    border: 1px solid #00ff00;
+    border: 1px solid #DB9202;
     transition: all 0.3s ease;
 }
 
 .availability-tag:hover {
-    background: #00ff00;
-    color: #000;
+    background: #DB9202;
+    color: #010205;
     transform: scale(1.05);
 }
 

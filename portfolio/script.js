@@ -1,12 +1,13 @@
-// Terminal Portfolio JavaScript
+// Terminal Portfolio JavaScript - Gold on Abyss Theme
 
 document.addEventListener('DOMContentLoaded', function() {
     // Typing animation for header
     const headerText = document.getElementById('header-text');
     const texts = [
         "Hi, I'm Michael Irungu Muriithi (PhantoMojo)",
-        "Software Developer | Cybersecurity Pro | AI Tools Specialist",
-        "Remote-Ready | Creative Technologist | Evolving Architect of Meaning"
+        "AI-Native Architect | Cybersecurity Specialist | Systems Orchestrator",
+        "Vibe Coding: AI handles syntax, I architect intelligence",
+        "Remote-Ready | Nairobi, Kenya | AuDHD Coder"
     ];
     
     let textIndex = 0;
