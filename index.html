@@ -1200,9 +1200,13 @@
         <span class="link-platform">GitHub</span>
         <span class="link-handle">Phantomojo →</span>
       </a>
-      <a href="/cdn-cgi/l/email-protection#8ae7e3f8ffe4edffbabbbfcafaf8e5fee5e4a4e7ef" class="contact-link">
+      <a href="mailto:mirungu015@proton.me" class="contact-link">
         <span class="link-platform">ProtonMail</span>
-        <span class="link-handle"><span class="__cf_email__" data-cfemail="deb3b7acabb0b9abeeefeb9eaeacb1aab1b0f0b3bb">[email&#160;protected]</span> →</span>
+        <span class="link-handle">mirungu015@proton.me →</span>
+      </a>
+      <a href="https://linkedin.com/in/michael-irungu-8a233926a" class="contact-link" target="_blank">
+        <span class="link-platform">LinkedIn</span>
+        <span class="link-handle">Michael Irungu Muriithi →</span>
       </a>
       <a href="https://dev.to/phantomojo" class="contact-link" target="_blank">
         <span class="link-platform">Dev.to</span>
@@ -1227,4 +1231,64 @@
 
       <p>I'm a night owl. Best response times are 20:00 – 02:00 EAT. I reply to everything eventually. If you're building something that matters for African digital infrastructure, privacy, or security — I especially want to hear from you.</p>
 
-      <p style="margin-top: 1.5rem; font-family: var(--mono); font-size: 0.65rem; color: var(--gold-dim); letter-spacing: 0.12em;">PGP: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="afc2c6dddac1c8da9f9e9aefdfddc0dbc0c181c2ca">[email&#160;protected]</a> · An
+      <p style="margin-top: 1.5rem; font-family: var(--mono); font-size: 0.65rem; color: var(--gold-dim); letter-spacing: 0.12em;">
+        <a href="mailto:mirungu015@proton.me" style="color: var(--gold-dim); text-decoration: none;">mirungu015@proton.me</a>
+        &nbsp;·&nbsp;
+        <a href="https://linkedin.com/in/michael-irungu-8a233926a" target="_blank" style="color: var(--gold-dim); text-decoration: none;">LinkedIn</a>
+        &nbsp;·&nbsp;
+        <a href="https://twitter.com/PhantoMojo" target="_blank" style="color: var(--gold-dim); text-decoration: none;">@PhantoMojo</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">PHANTOMOJO</div>
+  <div class="footer-copy">Built in Nairobi · Gold on Abyss · © 2026</div>
+</footer>
+
+<!-- SCROLL ANIMATIONS -->
+<script>
+  // Intersection Observer for fade-in animations
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.style.opacity = '1';
+        entry.target.style.transform = 'translateY(0)';
+      }
+    });
+  }, { threshold: 0.1 });
+
+  // Observe all sections and cards
+  document.querySelectorAll('section, .project-card, .ctf-card, .skill-group, .stat-cell').forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(20px)';
+    el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    observer.observe(el);
+  });
+
+  // Active nav link highlighting
+  const sections = document.querySelectorAll('section[id]');
+  const navLinks = document.querySelectorAll('.nav-links a');
+
+  window.addEventListener('scroll', () => {
+    let current = '';
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - 100;
+      if (window.scrollY >= sectionTop) {
+        current = section.getAttribute('id');
+      }
+    });
+
+    navLinks.forEach(link => {
+      link.style.color = '';
+      if (link.getAttribute('href') === `#${current}`) {
+        link.style.color = 'var(--gold)';
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
