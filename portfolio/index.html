@@ -360,6 +360,8 @@
     cursor: default;
   }
 
+  a.project-card { cursor: pointer; }
+
   .project-card::before {
     content: '';
     position: absolute;
@@ -805,7 +807,7 @@
   <h1 class="hero-name">Michael<br>Irungu<br>Muriithi</h1>
   <div class="hero-alias">Phantomojo / ngairuru</div>
   <p class="hero-desc">
-    Full-stack systems builder and security architect building across cybersecurity, agriculture tech, fintech, climate analytics, and AI/ML. 32 GitHub repos. GhostWire architect. Honeypot author. M-Pesa integrator. Climate platform builder. I don't wait for the map — I draw it.
+    Full-stack systems builder and security architect building across cybersecurity, agriculture tech, fintech, climate analytics, and AI/ML. 32 Codeberg repos. GhostWire architect. Honeypot author. M-Pesa integrator. Climate platform builder. I don't wait for the map — I draw it.
   </p>
   <div class="hero-tags">
     <span class="tag gold">Security Architecture</span>
@@ -842,16 +844,13 @@
   <div class="about-grid">
     <div class="about-text">
       <p>
-        I'm a Year 3 Cybersecurity student at <strong>Open University of Kenya</strong> — and the kind of person who doesn't wait for the map to exist before starting the journey. I built GhostWire, a post-quantum encrypted mesh network, because the problem was real and the solution wasn't. That's usually how it starts with me.
+        I'm a <strong>Systems Security Architect and full-stack builder</strong> — and a Year 3 student of <strong>BSc Cybersecurity and Digital Forensics</strong> at the <strong>Open University of Kenya</strong>. I'm Team Lead of <strong>GhostWire</strong>, a post-quantum encrypted mesh network competing in GCD4F 2026; <strong>Head of Security at RVC</strong>, a Risk Verification &amp; Compliance startup; and Founder/Builder of <strong>Stocko</strong>, a USSD/SMS financial platform (2025 – Present, in development). I also founded <strong>Obsidian Directive</strong>, a cybersecurity collective for CTF training.
       </p>
       <p>
-        I'm <strong>AuDHD</strong> — which means I think in parallel threads, I hyperfocus until things break open, and I don't let the shape of a problem intimidate me. I taught myself post-quantum cryptography while building the thing that needed it. I ran a 42-page self-study on my own neurology because the system wouldn't do it for me. That's just the mode I operate in.
+        I'm <strong>AuDHD</strong> — I think in parallel threads and hyperfocus until things break open. I taught myself post-quantum cryptography while building the thing that needed it. That's just the mode I operate in.
       </p>
       <p>
-        I work best in the dark — literally. Peak hours are <strong>20:00 to 02:00 EAT</strong>. That's when the noise drops and the signal gets clear. I use AI agents as genuine thinking partners, not autocomplete. I treat philosophy and systems architecture as the same discipline. I believe connection is infrastructure — and that no one should own it.
-      </p>
-      <p>
-        The philosophy behind everything I build: <strong>Ubuntu</strong> — the idea that what we create should serve the network, not extract from it. That's not just a value. It's literally in the routing protocol.
+        Peak hours are <strong>20:00–02:00 EAT</strong>. I use AI agents as genuine thinking partners, not autocomplete. The philosophy behind everything I build: <strong>Ubuntu</strong> — what we create should serve the network, not extract from it. That's not just a value. It's literally in the routing protocol.
       </p>
     </div>
 
@@ -870,14 +869,14 @@
       <div class="about-stats">
         <div class="stat-cell">
           <div class="stat-num">32</div>
-          <div class="stat-label">GitHub repositories</div>
+          <div class="stat-label">Codeberg repositories</div>
         </div>
         <div class="stat-cell">
           <div class="stat-num">4</div>
           <div class="stat-label">Published Rust crates</div>
         </div>
         <div class="stat-cell">
-          <div class="stat-num">7</div>
+          <div class="stat-num">12</div>
           <div class="stat-label">Published articles on dev.to</div>
         </div>
         <div class="stat-cell">
@@ -967,12 +966,19 @@
       <span class="tech-pill">ratatui</span>
       <span class="tech-pill">Tauri</span>
     </div>
+    <p style="font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.08em;">
+      <a href="https://www.ghostwire.cc/" target="_blank" rel="noopener" style="color: var(--gold);">ghostwire.cc →</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Phantomojo/GhostWire-secure-mesh-communication" target="_blank" rel="noopener" style="color: var(--gold);">GitHub →</a>
+      &nbsp;·&nbsp;
+      <a href="https://phantomojo.github.io/GhostWire-secure-mesh-communication/" target="_blank" rel="noopener" style="color: var(--gold);">Demo →</a>
+    </p>
   </div>
 
   <!-- Grid -->
   <div class="projects-grid">
 
-    <div class="project-card">
+    <a href="https://github.com/Phantomojo/cerberus-honeypot" class="project-card" target="_blank" rel="noopener">
       <div class="project-status">Active</div>
       <div class="project-name">Cerberus Honeypot</div>
       <p class="project-tagline">AI-powered adaptive honeypot with "Carrot & Stick" neighbor generation, OS fingerprint masking, and HoneyGPT threat response engine. Phoenix HUD v5.0 visualization. Cowrie integration.</p>
@@ -993,7 +999,7 @@
           <span class="metric-key">Phoenix HUD</span>
         </div>
       </div>
-    </div>
+    </a>
 
     <div class="project-card">
       <div class="project-status">Active</div>
@@ -1055,7 +1061,7 @@
       </div>
     </div>
 
-    <div class="project-card">
+    <a href="https://github.com/Phantomojo/HRM" class="project-card" target="_blank" rel="noopener">
       <div class="project-status contrib">Research Contrib.</div>
       <div class="project-name">HRM — Hierarchical Reasoning Model</div>
       <p class="project-tagline">Contributor to sapientinc/HRM (arxiv 2506.21734). Two-level recurrent architecture: H_level planning + L_level computation. Q-learning halting mechanism. 27M params. Trained on ARC-AGI, Sudoku, Maze datasets. No pretraining needed.</p>
@@ -1075,9 +1081,9 @@
           <span class="metric-key">2506.21734</span>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="project-card">
+    <a href="https://github.com/Phantomojo/omarchy" class="project-card" target="_blank" rel="noopener">
       <div class="project-status">Complete</div>
       <div class="project-name">Omarchy-Votive</div>
       <p class="project-tagline">Full system-wide desktop theme: Abyss Black + Accent Gold across Hyprland, Waybar, Neovim, Ghostty, VSCode, Obsidian, GTK, and more. Includes 5-layer GLSL live wallpaper, CTF tracker, job monitor, AI agent modules.</p>
@@ -1098,9 +1104,9 @@
           <span class="metric-key">Accent Gold</span>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="project-card">
+    <a href="https://passua-bites-web.vercel.app" class="project-card" target="_blank" rel="noopener">
       <div class="project-status">Active</div>
       <div class="project-name">Passua Bites</div>
       <p class="project-tagline">Kenyan food delivery platform with M-Pesa payment integration. Full-stack: tRPC, Drizzle ORM, Neon PostgreSQL, Next.js. 140+ TypeScript files. USSD/SMS order management for informal businesses.</p>
@@ -1121,9 +1127,9 @@
           <span class="metric-key">Deployed</span>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="project-card">
+    <a href="https://github.com/Phantomojo/ORUN.IO" class="project-card" target="_blank" rel="noopener">
       <div class="project-status">Active</div>
       <div class="project-name">ORUN.IO</div>
       <p class="project-tagline">Climate Impact Verification Platform with satellite analytics and community data collection. Interactive mapping for environmental monitoring across Africa.</p>
@@ -1138,9 +1144,9 @@
           <span class="metric-key">Impact Verification</span>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="project-card">
+    <a href="https://github.com/Phantomojo/hedgefund-lite" class="project-card" target="_blank" rel="noopener">
       <div class="project-status">Active</div>
       <div class="project-name">HedgeFund-Lite</div>
       <p class="project-tagline">Production-hardened algorithmic trading system with AI integration. Real-time market data processing, risk management, and portfolio optimisation.</p>
@@ -1155,9 +1161,9 @@
           <span class="metric-key">Integration</span>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="project-card">
+    <a href="https://mali-connect-app.vercel.app" class="project-card" target="_blank" rel="noopener">
       <div class="project-status">Active</div>
       <div class="project-name">Mali-Connect</div>
       <p class="project-tagline">AI livestock assessment platform with 3D visualisation, health scoring, and ecosystem integration for modern agriculture in East Africa.</p>
@@ -1170,6 +1176,57 @@
         <div class="metric">
           <span class="metric-val">Agriculture</span>
           <span class="metric-key">Livestock AI</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="https://github.com/Phantomojo/SENTRI" class="project-card" target="_blank" rel="noopener">
+      <div class="project-status">Active</div>
+      <div class="project-name">SENTRI</div>
+      <p class="project-tagline">Mobile money fraud prevention platform using SIM-as-a-Token authentication for secure financial transactions.</p>
+      <div class="project-tech">
+        <span class="tech-pill">SIM-as-a-Token</span>
+        <span class="tech-pill">Mobile Money</span>
+        <span class="tech-pill">Security</span>
+      </div>
+      <div class="project-metrics">
+        <div class="metric">
+          <span class="metric-val">Fraud</span>
+          <span class="metric-key">Prevention</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="https://github.com/Phantomojo/SAMscope" class="project-card" target="_blank" rel="noopener">
+      <div class="project-status">Active</div>
+      <div class="project-name">SAMscope</div>
+      <p class="project-tagline">Real-time Android security diagnostics and monitoring tool for threat detection and device analysis.</p>
+      <div class="project-tech">
+        <span class="tech-pill">Android</span>
+        <span class="tech-pill">Security Monitoring</span>
+        <span class="tech-pill">Threat Detection</span>
+      </div>
+      <div class="project-metrics">
+        <div class="metric">
+          <span class="metric-val">Real-Time</span>
+          <span class="metric-key">Diagnostics</span>
+        </div>
+      </div>
+    </a>
+
+    <div class="project-card">
+      <div class="project-status contrib">Hackathon</div>
+      <div class="project-name">Qonvergence</div>
+      <p class="project-tagline">Quantum-inspired AI orchestration for IBM watsonx "Orchestrate What's Next" Hackathon 2025 (Team MOR@NS). Unites humans and intelligent agents toward UN SDG 9.</p>
+      <div class="project-tech">
+        <span class="tech-pill">IBM watsonx</span>
+        <span class="tech-pill">AI Orchestration</span>
+        <span class="tech-pill">SDG 9</span>
+      </div>
+      <div class="project-metrics">
+        <div class="metric">
+          <span class="metric-val">2025</span>
+          <span class="metric-key">watsonx Hackathon</span>
         </div>
       </div>
     </div>
@@ -1386,15 +1443,19 @@
 
   <div class="contact-grid">
     <div class="contact-links">
-      <a href="https://github.com/Phantomojo" class="contact-link" target="_blank">
+      <a href="https://github.com/Phantomojo" class="contact-link" target="_blank" rel="noopener">
         <span class="link-platform">GitHub</span>
         <span class="link-handle">Phantomojo →</span>
+      </a>
+      <a href="https://codeberg.org/phantomojo" class="contact-link" target="_blank" rel="noopener">
+        <span class="link-platform">Codeberg</span>
+        <span class="link-handle">phantomojo →</span>
       </a>
       <a href="mailto:mirungu015@proton.me" class="contact-link">
         <span class="link-platform">ProtonMail</span>
         <span class="link-handle">mirungu015@proton.me →</span>
       </a>
-      <a href="https://linkedin.com/in/michael-irungu-8a233926a" class="contact-link" target="_blank">
+      <a href="https://linkedin.com/in/michaelimuriithi" class="contact-link" target="_blank" rel="noopener">
         <span class="link-platform">LinkedIn</span>
         <span class="link-handle">Michael Irungu Muriithi →</span>
       </a>
@@ -1424,9 +1485,9 @@
       <p style="margin-top: 1.5rem; font-family: var(--mono); font-size: 0.65rem; color: var(--gold-dim); letter-spacing: 0.12em;">
         <a href="mailto:mirungu015@proton.me" style="color: var(--gold-dim); text-decoration: none;">mirungu015@proton.me</a>
         &nbsp;·&nbsp;
-        <a href="https://linkedin.com/in/michael-irungu-8a233926a" target="_blank" style="color: var(--gold-dim); text-decoration: none;">LinkedIn</a>
+        <a href="https://linkedin.com/in/michaelimuriithi" target="_blank" rel="noopener" style="color: var(--gold-dim); text-decoration: none;">LinkedIn</a>
         &nbsp;·&nbsp;
-        <a href="https://twitter.com/PhantoMojo" target="_blank" style="color: var(--gold-dim); text-decoration: none;">@PhantoMojo</a>
+        <a href="https://codeberg.org/phantomojo" target="_blank" rel="noopener" style="color: var(--gold-dim); text-decoration: none;">Codeberg</a>
       </p>
     </div>
   </div>
@@ -1435,7 +1496,7 @@
 <!-- FOOTER -->
 <footer>
   <div class="footer-logo">PHANTOMOJO</div>
-  <div class="footer-copy">Built in Nairobi · Gold on Abyss · © 2026</div>
+  <div class="footer-copy">Built in Nairobi · Gold on Abyss · <a href="https://phantomojo.ghostwire.cc" style="color: var(--gold-dim); text-decoration: none;">phantomojo.ghostwire.cc</a> · © 2026</div>
 </footer>
 
 <!-- SCROLL ANIMATIONS -->
