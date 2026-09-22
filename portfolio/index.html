@@ -1474,6 +1474,18 @@
     </div>
 
     <div class="contact-philosophy">
+      <form id="contact-form" class="contact-form" style="margin-bottom:1.5rem;display:grid;gap:0.75rem;">
+        <label class="section-label" for="cf-name" style="margin:0;">Name</label>
+        <input id="cf-name" name="name" required maxlength="120" autocomplete="name" style="background:#0a0d14;border:1px solid rgba(219,146,2,0.35);color:var(--gold);padding:0.65rem 0.75rem;font-family:var(--mono);font-size:0.85rem;">
+        <label class="section-label" for="cf-email" style="margin:0;">Email</label>
+        <input id="cf-email" name="email" type="email" required maxlength="200" autocomplete="email" style="background:#0a0d14;border:1px solid rgba(219,146,2,0.35);color:var(--gold);padding:0.65rem 0.75rem;font-family:var(--mono);font-size:0.85rem;">
+        <label class="section-label" for="cf-message" style="margin:0;">Message</label>
+        <textarea id="cf-message" name="message" required rows="4" maxlength="4000" style="background:#0a0d14;border:1px solid rgba(219,146,2,0.35);color:var(--gold);padding:0.65rem 0.75rem;font-family:var(--mono);font-size:0.85rem;resize:vertical;"></textarea>
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAAE_1jzwoAblXgEpJ"></div>
+        <button type="submit" class="btn-primary" style="justify-self:start;cursor:pointer;">Send Message</button>
+        <p id="cf-status" class="section-sub" style="margin:0;min-height:1.2em;" aria-live="polite"></p>
+      </form>
+
       <p>I don't believe connection should be owned. That's not just a design principle for GhostWire — it's how I approach collaboration.</p>
 
       <blockquote>
@@ -1499,6 +1511,9 @@
   <div class="footer-copy">Built in Nairobi · Gold on Abyss · <a href="https://phantomojo.ghostwire.cc" style="color: var(--gold-dim); text-decoration: none;">phantomojo.ghostwire.cc</a> · © 2026</div>
 </footer>
 
+<!-- TURNSTILE -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
 <!-- SCROLL ANIMATIONS -->
 <script>
   // Intersection Observer for fade-in animations
@@ -1518,6 +1533,39 @@
     el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
     observer.observe(el);
   });
+
+  // Contact form → Cloudflare Worker + Turnstile
+  const contactForm = document.getElementById('contact-form');
+  if (contactForm) {
+    const cfStatus = document.getElementById('cf-status');
+    contactForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      cfStatus.textContent = 'Sending…';
+      const tokenEl = contactForm.querySelector('textarea[name="cf-turnstile-response"], input[name="cf-turnstile-response"]');
+      const token = tokenEl ? tokenEl.value : '';
+      try {
+        const res = await fetch('https://api.ghostwire.cc/api/contact', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({
+            name: contactForm.elements.namedItem('name').value,
+            email: contactForm.elements.namedItem('email').value,
+            message: contactForm.elements.namedItem('message').value,
+            token,
+          }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok) {
+          cfStatus.textContent = 'Sent. I will reply eventually — night owl hours apply.';
+          contactForm.reset();
+        } else {
+          cfStatus.textContent = data.error || 'Failed to send.';
+        }
+      } catch {
+        cfStatus.textContent = 'Network error — try email instead.';
+      }
+    });
+  }
 
   // Active nav link highlighting
   const sections = document.querySelectorAll('section[id]');

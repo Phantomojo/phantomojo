@@ -148,3 +148,6 @@ Thumbs.db
 *.tmp
 *.temp
 .vercel
+
+# Wrangler local state
+.wrangler/
