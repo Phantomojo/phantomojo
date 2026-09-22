@@ -9,26 +9,15 @@ jobs:
   update-readme:
     name: Update README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Update README
+
+      - name: Update README activity feed
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README with latest activity'
           MAX_LINES: 5
-          
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Phantomojo
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}

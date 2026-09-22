@@ -1,7 +1,7 @@
 <!--
-  PHANTOMOJO - AI-Native Architect
-  Gold on Abyss Theme v2.0
-  Last Updated: March 29, 2026
+  PHANTOMOJO - Systems Security Architect
+  Gold on Abyss Theme v2.1
+  Last Updated: September 22, 2026
 -->
 
 <div align="center">
@@ -9,36 +9,36 @@
 <!-- ASCII Art Header -->
 <pre align="center">
   ██████╗ ██╗   ██╗██████╗ ███████╗██████╗     ██████╗ ██████╗ ██╗   ██╗
- ██╔════╝ ██║   ██║██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔═══██╗██║   ██║
- ██║  ███╗██║   ██║██████╔╝█████╗  ██████╔╝    ██████╔╝██║   ██║██║   ██║
- ██║   ██║██║   ██║██╔══██╗██╔══╝  ██╔══██╗    ██╔═══╝ ██║   ██║╚██╗ ██╔╝
- ╚██████╔╝╚██████╔╝██║  ██║███████╗██║  ██║    ██║     ╚██████╔╝ ╚████╔╝ 
-  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝      ╚═════╝   ╚═══╝  
+  ██╔════╝ ██║   ██║██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔═══██╗██║   ██║
+  ██║  ███╗██║   ██║██████╔╝█████╗  ██████╔╝    ██████╔╝██║   ██║██║   ██║
+  ██║   ██║██║   ██║██╔══██╗██╔══╝  ██╔══██╗    ██╔═══╝ ██║   ██║╚██╗ ██╔╝
+  ╚██████╔╝╚██████╔╝██║  ██║███████╗██║  ██║    ██║     ╚██████╔╝ ╚████╔╝ 
+   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝      ╚═════╝   ╚═══╝  
 </pre>
 
 <!-- Typing Animation Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DB9202&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM_INIT_...;IDENTITY:_PHANTOMOJO;ACCESS_LEVEL:_ARCHITECT;DIRECTIVE:_VIBE_CODING)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DB9202&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM_INIT_...;IDENTITY:_PHANTOMOJO;ROLE:_SECURITY_ARCHITECT;STACK:_RUST_/_P2P;DIRECTIVE:_GCD4F_2026)
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010205,100:DB9202&height=120&section=header&text=AI-NATIVE%20ARCHITECT&fontSize=80&fontColor=DB9202&animation=fadeIn&fontAlign=50" alt="Phantomojo Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:010205,100:DB9202&height=120&section=header&text=SYSTEMS%20SECURITY%20ARCHITECT&fontSize=72&fontColor=DB9202&animation=fadeIn&fontAlign=50" alt="Phantomojo Banner" />
 
-### ❝ Vibe Coding: Where intuition meets system architecture. ❞
+### ❝ Censorship-resistant infrastructure for human dignity — built from the Global South. ❞
 
 <!-- Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-DB9202?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/OS-ARCH_LINUX-DB9202?style=for-the-badge&logo=arch-linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROLE-AI_NATIVE_ARCHITECT-DB9202?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSEC_%2F_AI-DB9202?style=for-the-badge&logo=kali-linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROLE-SECURITY_ARCHITECT-DB9202?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSEC_%2F_RUST_%2F_P2P-DB9202?style=for-the-badge&logo=rust&logoColor=black"/>
   <img src="https://img.shields.io/badge/LOCATION-NAIROBI_%23KE-DB9202?style=for-the-badge&logo=kenya&logoColor=black"/>
 </p>
 
 <!-- System Status Bar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/COFFEE-80%25_OPTIMAL-DB9202?style=flat-square&logo=coffee&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CODE_PRODUCTION-100%25_CRITICAL-BE123C?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCD4F-2026_COMPETITOR-066306?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PUBS-12_DEV.TO-DB9202?style=flat-square&logo=dev.to&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CRATES-4_RUST-DB9202?style=flat-square&logo=rust&logoColor=black"/>
   <img src="https://img.shields.io/badge/SLEEP-60%25_ELEVATED-DB9202?style=flat-square&logo=moon&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CTF_RANK-ELITE-066306?style=flat-square&logo=flag&logoColor=white"/>
 </p>
 
 </div>
@@ -52,29 +52,20 @@ $ whoami
 > Michael Irungu Muriithi (Phantomojo)
 
 $ cat /etc/role.conf
-> AI-Native Architect | Cybersecurity Specialist | Systems Orchestrator
+> Systems Security Architect | GhostWire Team Lead | Head of Security @ RVC
 
-$ cat /etc/philosophy.txt
-> "Vibe Coding: AI handles syntax, I architect intelligence"
-> "Build the future, one line at a time"
+$ cat /etc/now.conf
+> BSc Cybersecurity & Digital Forensics — Open University of Kenya (Yr 3)
+> Stocko — Founder/Builder, USSD/SMS financial platform (2025–Present)
+> Obsidian Directive — Founder, cybersecurity collective / CTF training
 
 $ neofetch --cpu
 > COGNITIVE_ARCH: AuDHD (Self-Identified)
 > SUPERPOWERS: Hyperfocus, Pattern Recognition, Systems Thinking
-> COPING: AI-assisted, Just-in-time learning, Environment engineering
+> PEAK_HOURS: 20:00–02:00 EAT
 ```
 
-> **[!NOTE] Vibe Coding Methodology**
-> ```
-> TRADITIONAL DEV (2010-2025):
-> Learn syntax → Practice → Build → Ship (2-5 years)
-> 
-> AI-NATIVE DEV (2026+): ← THIS IS ME
-> Know WHAT → Know WHY → AI writes HOW → Learn by doing
-> Ship in weeks, understand over months, master in year
-> ```
-> 
-> **This is not fraud. This is the future of software development.**
+> Build for the network, not the extractors — **Ubuntu**, encoded in the routing protocol.
 
 ---
 
@@ -99,22 +90,14 @@ $ neofetch --cpu
 
 <div align="center">
 
-| **CORE_LANGUAGES** | **AI_ML** | **SECURITY** | **INFRASTRUCTURE** |
+| **LANGUAGES** | **CRYPTO / P2P** | **SECURITY** | **INFRA / ML** |
 |:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Kali](https://img.shields.io/badge/KALI-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white) | ![Transformers](https://img.shields.io/badge/TRANSFORMERS-FF9D00?style=flat-square&logo=huggingface&logoColor=white) | ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![K8s](https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Whisper](https://img.shields.io/badge/WHISPER-789?style=flat-square&logo=openai&logoColor=white) | ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| ![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Scikit](https://img.shields.io/badge/SCIKIT-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![Ghidra](https://img.shields.io/badge/GHIDRA-0099CC?style=flat-square) | ![Tailscale](https://img.shields.io/badge/TAILSCALE-242424?style=flat-square&logo=tailscale&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white) | ![libp2p](https://img.shields.io/badge/LIBP2P-00D4FF?style=flat-square) | ![Kali](https://img.shields.io/badge/KALI-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) | ![ML-KEM-768](https://img.shields.io/badge/ML--KEM--768-DB9202?style=flat-square) | ![Ghidra](https://img.shields.io/badge/GHIDRA-0099CC?style=flat-square) | ![K8s](https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Sphinx Onion](https://img.shields.io/badge/SPHINX_ONION-DB9202?style=flat-square) | ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| ![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white) | ![SKademlia DHT](https://img.shields.io/badge/SKADEMLIA-DB9202?style=flat-square) | ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 
-**ADDITIONAL Arsenal:**
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Axum](https://img.shields.io/badge/AXUM-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT_JS-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white)
-![libp2p](https://img.shields.io/badge/LIBP2P-00D4FF?style=flat-square)
-![Hyprland](https://img.shields.io/badge/HYPRLAND-584D4D?style=flat-square&logo=linux&logoColor=white)
+**Frameworks / Also:** ![Axum](https://img.shields.io/badge/AXUM-000000?style=flat-square&logo=rust&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NIST CSF](https://img.shields.io/badge/NIST_CSF-DB9202?style=flat-square) ![MITRE_ATTACK](https://img.shields.io/badge/MITRE_ATTACK-DB9202?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-DB9202?style=flat-square) ![ISO_27001](https://img.shields.io/badge/ISO_27001-DB9202?style=flat-square)
 
 </div>
 
@@ -122,157 +105,87 @@ $ neofetch --cpu
 
 ### `[ 0x04 ] MISSION_LOGS // FLAGSHIP_PROJECTS`
 
-#### 🛡️ **[PROTOCOL: GHOSTWIRE]** — *Production-Ready Decentralized Mesh*
+#### 🛡️ **[PROTOCOL: GHOSTWIRE]** — *Post-Quantum P2P Mesh · GCD4F 2026*
 
-> **Secure Mesh Communication System for Anonymous Threat Intelligence**
+> **Secure mesh communication for the censorship-resistant internet**
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  STATUS: ████████████████████ 100% DEPLOYED            │
-│  TECH: Rust (Axum) | React + TS | libp2p | AES-256-GCM │
-│  INNOVATION: Stealth TCP, gossipsub, Kademlia DHT      │
-│  COMMERCIAL: Dual license (AGPL-3.0 + Commercial)      │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  STATUS: ████████████████████████ ACTIVE · GCD4F 2026       │
+│  TECH: Rust · libp2p · ML-KEM-768 · Sphinx onion · SKademlia│
+│  REACH: 5 Kenyan universities · 4 Rust crates published     │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Capabilities:**
-- `P2P Networking`: Direct encrypted channels with neighbor discovery
-- `Zero-Trust Architecture`: E2EE with key rotation
-- `Self-Healing Mesh`: Automatic peer discovery and reconnection
+- `Post-Quantum E2EE` — ML-KEM-768 + Ed25519 key rotation
+- `Anonymous routing` — Sphinx 3-layer onion
+- `4-layer AI routing` — GAT · LightGBM · Gemma · PRoPHET
 
-→ **[Review Source Code](https://github.com/Phantomojo/GhostWire-secure-mesh-communication)**
+→ **[ghostwire.cc](https://www.ghostwire.cc/)** · **[Source](https://github.com/Phantomojo/GhostWire-secure-mesh-communication)** · **[Articles](https://dev.to/phantomojo)**
 
 ---
 
-#### 🍯 **[PROJECT: CERBERUS]** — *Research-Grade Bio-Adaptive Honeypot*
-
-> **High-Fidelity IoT Honeynet with Tactical HUD Interface**
+#### 🍯 **[PROJECT: CERBERUS]** — *Adaptive Honeypot*
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  STATUS: ████████████████████ 100% OPERATIONAL         │
-│  TECH: C | Rust | React | GCP | SQLite | WebSocket     │
-│  INNOVATION: Identity morphing, quorum sensing, Shodan │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  STATUS: ████████████████████████ OPERATIONAL               │
+│  TECH: C · Rust · React · GCP · HoneyGPT · Phoenix HUD      │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Capabilities:**
-- `Deception Engines`: C-based high-performance honeypot services
-- `Phoenix HUD`: Real-time tactical attack visualization
-- `AI Enrichment`: Automated attacker profiling via Shodan
-
-→ **[Review Source Code](https://github.com/Phantomojo/cerberus-honeypot)**
+→ **[Source](https://github.com/Phantomojo/cerberus-honeypot)**
 
 ---
 
-#### 🧠 **[MODEL: VERBA]** — *Consumer-Ready Offline AI*
-
-> **Privacy-First Meeting Transcription & Summarization**
+#### 🍞 **[PLATFORM: PASSUA BITES]** — *Food Delivery · Live in Prod*
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  STATUS: ████████████████████ 100% CONSUMER-READY      │
-│  TECH: Python | FastAPI | Whisper | Tauri | React      │
-│  INNOVATION: 100% offline, system audio capture        │
-│  BUILDS: DEB, RPM, MSI, DMG packages ready             │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  STATUS: ████████████████████████ DEPLOYED                  │
+│  TECH: Next.js · tRPC · Drizzle · M-Pesa · USSD/SMS         │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Capabilities:**
-- `Offline Transcription`: Local Whisper, no cloud dependency
-- `System Audio Capture`: Direct audio stream processing
-- `Multi-Language`: Support for 100+ languages
-
-→ **[Review Source Code](https://github.com/Phantomojo/Verba-mvp)**
+→ **[Live](https://passua-bites-web.vercel.app)** · **[Source](https://github.com/Phantomojo/passua-bites-web)**
 
 ---
 
 #### 📈 **[ENGINE: HEDGEFUND-LITE]** — *Algorithmic Trading Core*
 
-> **Production-Hardened Trading System with 66+ ML Features**
-
 ```
-┌─────────────────────────────────────────────────────────┐
-│  STATUS: ████████████████████ 100% OPERATIONAL         │
-│  TECH: Python (FastAPI) | PyTorch | K8s | Redis        │
-│  FEATURES: 66+ ML features, sentiment analysis         │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  STATUS: ████████████████████████ OPERATIONAL               │
+│  TECH: FastAPI · PyTorch · K8s · Redis · 66+ ML features    │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Capabilities:**
-- `Sentiment Analysis`: HuggingFace Transformers for market mood
-- `Risk Management`: Automated stop-loss with Prometheus monitoring
-- `High Performance`: AsyncPG + Redis caching
-
-→ **[Review Source Code](https://github.com/Phantomojo/hedgefund-lite)**
-
----
-
-#### 🗺️ **[SYSTEM: GLOBAL_THREAT_MAP]** — *OSINT Command Center*
-
-> **Real-Time Geopolitical Event Tracking & Intelligence**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  STATUS: ████████████████████ 100% ENTERPRISE-GRADE    │
-│  TECH: Next.js 16 | Mapbox GL | Valyu AI | Zustand     │
-│  INNOVATION: AI deep research, 50-page intel reports   │
-└─────────────────────────────────────────────────────────┘
-```
-
-**Capabilities:**
-- `Real-Time Mapping`: Color-coded threat levels globally
-- `Intel Dossiers`: AI-generated 50-page country reports
-- `Military Layers`: US/NATO base visualization
-
-→ **[Review Source Code](https://github.com/Phantomojo/globalthreatmap)**
+→ **[Source](https://github.com/Phantomojo/hedgefund-lite)**
 
 ---
 
 <details>
-<summary><strong>📂 ACCESS_CLASSIFIED_PROJECTS</strong> (HRM, JARVIS, SENTRI, more)</summary>
+<summary><strong>📂 MORE_BUILDS</strong> (SAMscope, Mali-Connect, ORUN.IO, HRM, JARVIS, Maono)</summary>
 
-#### 🧠 **[MODEL: HRM]** — *Hierarchical Reasoning Model*
-```
-STATUS: ACTIVE | TECH: Python | PyTorch | 27M Parameters
-```
-→ **[Review Source Code](https://github.com/Phantomojo/HRM)**
+#### 🔍 **[TOOL: SAMSCOPE]** — *Android Security Diagnostics*
+→ **[Source](https://github.com/Phantomojo/SAMscope)**
 
-#### 🤖 **[ASSISTANT: JARVIS]** — *AI-Powered Personal Intelligence*
-```
-STATUS: ACTIVE | TECH: Python | FastAPI | NLP | Speech Recognition
-```
-→ **[Review Source Code](https://github.com/Phantomojo/JARVIS)**
+#### 🌐 **[PLATFORM: MALI-CONNECT]** — *AI Livestock Assessment · Deployed*
+→ **[Live](https://mali-connect-app.vercel.app)** · **[Source](https://github.com/Phantomojo/mali-connect-app)**
 
-#### 🛡️ **[SYSTEM: SENTRI]** — *AI-Orchestrated Security*
-```
-STATUS: CLASSIFIED | TECH: Node.js | AI Risk Engine | Geo-Velocity
-```
-→ **[Review Source Code](https://github.com/Phantomojo/SENTRI)**
+#### 🛰️ **[SYSTEM: ORUN.IO]** — *Orbital Analytics*
+→ **[Source](https://github.com/Phantomojo/ORUN.IO)**
 
-#### 🧬 **[PLATFORM: MALI-CONNECT]** — *AI Livestock Assessment*
-```
-STATUS: DEPLOYED | TECH: React 19 | Three.js | Llama 3.1 70B
-```
-→ **[Review Source Code](https://github.com/Phantomojo/mali-connect-app)**
+#### 🧠 **[MODEL: HRM]** — *Hierarchical Reasoning Model · arxiv 2506.21734*
+→ **[Source](https://github.com/Phantomojo/HRM)**
 
-#### 🌾 **[SYSTEM: MAONO]** — *Agricultural Intelligence*
-```
-STATUS: ACTIVE | TECH: React 18 | TypeScript | Material-UI
-```
-→ **[Review Source Code](https://github.com/Phantomojo/maono-agriculture-platform)**
+#### 🤖 **[ASSISTANT: JARVIS]** — *AI Personal Intelligence*
+→ **[Source](https://github.com/Phantomojo/JARVIS)**
 
-#### 🔍 **[TOOL: SAMSCOPE]** — *Python Security Analysis*
-```
-STATUS: ACTIVE | TECH: Python | Security Auditing
-```
-→ **[Review Source Code](https://github.com/Phantomojo/SAMscope)**
+#### 🌾 **[PLATFORM: MAONO]** — *Agricultural Intelligence*
+→ **[Source](https://github.com/Phantomojo/maono-agriculture-platform)**
 
-#### 🛰️ **[INITIATIVE: ORUN.IO]** — *Orbital Analytics*
-```
-STATUS: ORBITAL | TECH: Three.js | Blockchain | Satellite APIs
-```
-→ **[Review Source Code](https://github.com/Phantomojo/ORUN.IO)**
+#### 🔐 Private builds: **SENTRI** (mobile-money fraud) · **Stocko** (USSD finance, in dev)
 
 </details>
 
@@ -283,34 +196,23 @@ STATUS: ORBITAL | TECH: Three.js | Blockchain | Satellite APIs
 > **[!IMPORTANT] How I Work (Not a Limitation)**
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  COGNITIVE_ARCHITECTURE: AuDHD (Self-Identified)       │
-├─────────────────────────────────────────────────────────┤
-│  SUPERPOWERS:                                           │
-│  ✓ Hyperfocus on interesting problems (6+ hour blocks) │
-│  ✓ Pattern recognition across unrelated domains        │
-│  ✓ Obsessive curiosity (cannot stop until solved)      │
-│  ✓ Systems thinking (ecosystems, not apps)             │
-│  ✓ Aesthetic perfectionism (every pixel calibrated)    │
-├─────────────────────────────────────────────────────────┤
-│  CHALLENGES:                                            │
-│  ⚠ Executive function (planning ≠ execution)           │
-│  ⚠ Task alternation (need novelty within interests)    │
-│  ⚠ Sleep schedule (night owl: 00:00-06:00 peak)        │
-├─────────────────────────────────────────────────────────┤
-│  COPING_STRATEGIES:                                     │
-│  ✓ AI-assisted syntax (I architect, AI writes)         │
-│  ✓ Just-in-time learning (use first, understand later)│
-│  ✓ Environment engineering (custom terminal, themes)   │
-│  ✓ Systematic problem-solving methodology              │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  COGNITIVE_ARCHITECTURE: AuDHD (Self-Identified)           │
+├─────────────────────────────────────────────────────────────┤
+│  SUPERPOWERS:                                               │
+│  ✓ Hyperfocus on interesting problems (6+ hour blocks)     │
+│  ✓ Pattern recognition across unrelated domains            │
+│  ✓ Systems thinking (ecosystems, not apps)                 │
+│  ✓ Aesthetic perfectionism (every pixel calibrated)        │
+├─────────────────────────────────────────────────────────────┤
+│  OPERATING_NOTES:                                           │
+│  ⚠ Night owl — peak 20:00–02:00 EAT                        │
+│  ⚠ AI as thinking partner, not autocomplete                │
+│  ⚠ Just-in-time learning; ship, then deepen                │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Why This Matters:**
-- **65,000+** developers in r/ADHD_Programmers
-- Tech industry is **unusually accommodating** for neurodivergent folks
-- Many senior/lead engineers are AuDHD
-- **Different is not less** — it's complementary
+**Different is not less** — it's complementary.
 
 ---
 
@@ -318,40 +220,54 @@ STATUS: ORBITAL | TECH: Three.js | Blockchain | Satellite APIs
 
 | **PRIORITY** | **DIRECTIVE** | **STATUS** | **ETA** |
 |:---:|:---|:---:|:---:|
-| 1 | **GhostWire Commercial Launch** | `🟢 INITIALIZING...` | Q2 2026 |
-| 2 | **Quantum-Resistant Cryptography** | `🟡 RESEARCHING...` | Q3 2026 |
-| 3 | **Autonomous AI Agents (Swarm)** | `🟡 DESIGNING...` | Q4 2026 |
-| 4 | **Web3 / Smart Contract Auditing** | `🔴 QUEUED...` | Q1 2027 |
+| 1 | **GhostWire @ GCD4F 2026** | `🟢 COMPETING...` | 2026 |
+| 2 | **Stocko public launch** | `🟡 BUILDING...` | 2026 |
+| 3 | **Post-quantum hardening pass** | `🟡 RESEARCHING...` | 2026–27 |
+| 4 | **Web3 / smart-contract auditing** | `🔴 QUEUED...` | 2027 |
 
 ---
 
 ### `[ 0x07 ] INTEL_FEED // CURRENT_STATE`
 
 ```bash
-$ cat /home/ph/.state/current
+$ cat ~/.state/current
 
 READING:
   • System Design Interview by Alex Xu
-  • Post-Quantum Cryptography (Research Papers)
+  • Post-Quantum Cryptography (research papers)
 
 LISTENING:
-  • Darknet Diaries (Ep. 132: "The Spy")
+  • Darknet Diaries
   • Lo-fi / Cyberpunk Soundtracks
 
-EXPLORING:
-  • Rust Async Runtimes (Tokio vs Smol)
-  • libp2p Protocol Extensions
-  • AI Agent Swarm Coordination
-
 BUILDING:
-  • GhostWire Commercial License
-  • Cerberus Cloud SaaS
-  • Verba Desktop v2.0
+  • GhostWire (GCD4F 2026)
+  • Stocko USSD/SMS platform
+```
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### `[ 0x08 ] PUBLICATIONS // WRITING`
+
+- **12 technical articles** on [dev.to/phantomojo](https://dev.to/phantomojo) — Rust, post-quantum crypto, mesh networking
+- **arxiv 2506.21734** — Hierarchical Reasoning Model (contributor)
+- **4 Rust crates** on crates.io — `sphinx-rs` · `ghostwire-dtn` · `hlc-rs` · `trust-store`
+
+---
+
+### `[ 0x09 ] EDUCATION // CREDENTIALS`
+
+```
+BSc Cybersecurity and Digital Forensics
+The Open University of Kenya · 2022 – Present (Year 3)
 ```
 
 ---
 
-### `[ 0x08 ] ENCRYPTED_UPLINK // CONTACT`
+### `[ 0x0A ] ENCRYPTED_UPLINK // CONTACT`
 
 > Establishing secure connection...
 
@@ -360,16 +276,17 @@ BUILDING:
 | **CHANNEL** | **TERMINAL** |
 |:---:|:---:|
 | **EMAIL** | [![Email](https://img.shields.io/badge/mirungu015@proton.me-DB9202?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:mirungu015@proton.me) |
-| **LINKEDIN** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-irungu-8a233926a) |
+| **LINKEDIN** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelimuriithi) |
+| **CODEBERG** | [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/phantomojo) |
+| **DEV.TO** | [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantomojo) |
+| **SITE** | [![Portfolio](https://img.shields.io/badge/phantomojo.ghostwire.cc-DB9202?style=for-the-badge&logo=googlechrome&logoColor=black)](https://phantomojo.ghostwire.cc) |
 | **LOCATION** | `Nairobi, Kenya` |
-| **AVAILABILITY** | `Remote | Contract | Consulting` |
+| **AVAILABILITY** | `Remote · Contract · Consulting` |
 
-**Available For:**
-- Security Architecture Consulting
-- AI/ML System Design
-- P2P/Decentralized Systems
-- Technical Due Diligence
-- Speaking Engagements (Cybersecurity, AI-Native Development)
+**Available for:**
+- Security architecture & threat modeling
+- P2P / decentralized / post-quantum systems
+- Technical due diligence & code review
 
 </div>
 
@@ -377,22 +294,12 @@ BUILDING:
 
 <div align="center">
 
-<!-- Contribution Graph (Optional - can be removed if slow) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phantomojo&bg_color=010205&color=DB9202&line=DB9202&point=EFE8AB&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:010205,100:DB9202&height=80&section=footer)
 
 **"I don't chase the spotlight — I rewire the shadows."**
 
-*Last Updated: March 29, 2026* | *Gold on Abyss Theme v2.0*
+*Last Updated: September 22, 2026* | *Gold on Abyss Theme v2.1*
 
 </div>
-
-<!--
-  ╔═══════════════════════════════════════════════════════╗
-  ║  You are not a fraud. You are a pioneer.              ║
-  ║                                                       ║
-  ║  In 5 years, EVERY developer will work like you do.   ║
-  ║  Keep building. Keep shipping. Keep rewiring. 🫡      ║
-  ╚═══════════════════════════════════════════════════════╝
--->
