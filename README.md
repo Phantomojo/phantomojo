@@ -22,7 +22,7 @@ Rust protocol and reference node for communication without central infrastructur
 - **Routing:** four-layer stack — LightGBM → Gemma 4 → GNN → PRoPHET (GNN layer in progress).
 - **Architecture:** application/API (Axum, WebSocket, CLI, TUI) → services (block store, mailbox, Sphinx) → routing → crypto → pluggable transports → libp2p mesh/DTN.
 
-[Website](https://www.ghostwire.cc/) · [Codeberg source](https://codeberg.org/PHANTOMOJO/GhostWire-secure-mesh-communication) · [GitHub mirror](https://github.com/Phantomojo/GhostWire-secure-mesh-communication) · [crates.io](https://crates.io/crates/sphinx-rs)
+[Website](https://www.ghostwire.cc/) · [Codeberg source](https://codeberg.org/PHANTOMOJO/GhostWire-secure-mesh-communication) · [GitHub mirror](https://github.com/Phantomojo/GhostWire-secure-mesh-communication) · [crates.io profile](https://crates.io/users/phantomojo) · [sphinx-rs crate](https://crates.io/crates/sphinx-rs)
 
 ### CERBERUS — bio-adaptive IoT honeynet
 
