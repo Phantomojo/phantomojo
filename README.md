@@ -1,15 +1,22 @@
 # Phantomojo — Michael Irungu Muriithi
 
-Security engineer working on decentralized systems, applied cryptography, and adaptive threat intelligence.
+Security-focused systems engineer in progress; Year-3 BSc Cybersecurity & Digital Forensics student. GhostWire maintainer; four published Rust crates.
 
 | Anchor | Value |
 |---|---|
 | Handle | `Phantomojo` (GitHub) · `PHANTOMOJO` (Codeberg) |
 | Name | M.I. Muriithi — Michael Irungu Muriithi |
-| Affiliation | BSc Cybersecurity & Digital Forensics, Open University of Kenya · Founder, Obsidian Directive |
+| Affiliation | BSc Cybersecurity & Digital Forensics, Open University of Kenya (Year 3, expected 2027) · GhostWire maintainer · initiated Obsidian Directive |
 | Location | Nairobi, Kenya |
 
-[GitHub](https://github.com/Phantomojo) · [Codeberg](https://codeberg.org/PHANTOMOJO) · [Website](https://www.ghostwire.cc/) · [dev.to](https://dev.to/phantomojo) · [LinkedIn](https://www.linkedin.com/in/michaelimuriithi) · [mirungu015@proton.me](mailto:mirungu015@proton.me)
+[GitHub](https://github.com/Phantomojo) · [Codeberg](https://codeberg.org/PHANTOMOJO) · [Website](https://www.ghostwire.cc/) · [dev.to](https://dev.to/phantomojo) · [LinkedIn](https://www.linkedin.com/in/michaelimuriithi) · [mirungu015@gmail.com](mailto:mirungu015@gmail.com)
+
+## Verified evidence (as of 2026-11-25)
+
+- 28 public GitHub repos (24 non-fork) and 2 Codeberg repos.
+- Four crates.io packages owned by `Phantomojo`: sphinx-rs 0.1.1, ghostwire-dtn 0.1.0, hlc-rs 0.1.0, trust-store 0.1.0.
+- GhostWire line of record: 379 commits as of 2026-11-24.
+- Automation and AI agents contributed to this codebase; provenance is disclosed rather than hidden.
 
 ## Flagship projects
 
@@ -45,6 +52,6 @@ Full profile: [codeberg.org/PHANTOMOJO](https://codeberg.org/PHANTOMOJO) — sou
 
 ## Contact
 
-Security architecture, protocol design, and technical due diligence. Nairobi, Kenya — remote work.
+Rust systems, protocol design and security research. Nairobi, Kenya — remote work.
 
-[Email](mailto:mirungu015@proton.me) · [GitHub](https://github.com/Phantomojo) · [Codeberg](https://codeberg.org/PHANTOMOJO) · [LinkedIn](https://www.linkedin.com/in/michaelimuriithi)
+[Email](mailto:mirungu015@gmail.com) · [GitHub](https://github.com/Phantomojo) · [Codeberg](https://codeberg.org/PHANTOMOJO) · [LinkedIn](https://www.linkedin.com/in/michaelimuriithi)
