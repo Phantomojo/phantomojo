@@ -1,6 +1,6 @@
 # Phantomojo — Michael Irungu Muriithi
 
-Security-focused systems engineer in progress; Year-3 BSc Cybersecurity & Digital Forensics student. GhostWire maintainer; four published Rust crates.
+Security-focused systems engineer in progress; pursuing a BSc in Cybersecurity & Digital Forensics at the Open University of Kenya (expected 2027). GhostWire maintainer; four published Rust crates.
 
 | Anchor | Value |
 |---|---|
